@@ -1,0 +1,38 @@
+<div class="fp_form_cont_wraper">
+	<div class="fp_form_cont">
+		<p class="fp_form_title"></p>
+		<p class="fp_form_input_title"></p>
+		<p><input type="text" id="fp_email_input" /></p>
+		<div class="fp_form_submit_cont">
+			<div class="fp_form_btns" onclick="return fpVerifInput(); ">
+							</div>		
+			<div class="fp_form_btns" style="margin-left:15px" onclick=" fPFormShow(); ">
+							</div>							
+		</div>	
+	</div>
+</div>
+<p class="fp_title" onclick="fPFormShow();">Forgot your password?</p>
+<script type="text/javascript">
+	function fpSendEmailAjax()
+	{
+		var email_adress = $('#fp_email_input').val();
+		fPFormShow();
+		msgBox("","g");
+		$.post( "", { fp_ajax: '1',email_adress:email_adress});
+		return false;
+	}
+	
+	function fpVerifInput()
+	{
+		msgBoxCloseAll();
+
+		if($('#fp_email_input').val().trim()=='')
+		{
+			msgBox('','r');
+			$('#fp_email_input').focus();
+			return false;			
+		}
+		fpSendEmailAjax();
+		return true;
+	}
+</script>

@@ -1,0 +1,125 @@
+.a_r_cont{
+	min-height:10px;
+	height:auto;	
+	width:300px;
+	margin-top:20px;
+	padding-bottom:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.a_r_line{
+    font-family: arial,sans-serif;
+	color:#276e87;
+	font-size:13px;		
+	text-align:center;
+}
+.a_r_line a{
+    font-family: arial,sans-serif;
+	color:#276e87;
+	font-size:13px;	
+	text-decoration:none;
+	cursor:pointer;
+}
+.a_r_line a:hover{
+    text-decoration:underline;
+}
+.a_r_line_active{
+    font-weight:bold;
+}
+.sign_in_cont{
+	min-height:120px;
+	height:auto;	
+	width:100%;
+	margin-top:25px;
+	display:none;	
+
+}
+
+.regist_in_cont{
+	min-height:140px;
+	height:auto;	
+	width:100%;
+	margin-top:25px;
+	display:none;	
+
+}
+.s_i_btn_cont{
+	height:26px;	
+	width:100%;	
+	margin-top:9px;
+}
+.a_r_title{
+    font-family: arial,sans-serif;
+	color:#555555;
+	font-size:12px;	
+	font-weight:bold;
+	margin-bottom:2px;
+	margin-left:2px;	
+}
+.a_r_input{
+	width:292px;
+	height:20px;
+	border:1px solid #e4e4e4;
+	padding:1px 0 1px 4px;
+    font-family: arial,sans-serif;
+	color:#0e3543;
+	font-size:12px;		
+	background-color:#f9f9f9;
+	margin-top:2px;
+	margin-bottom:10px;
+	-webkit-box-shadow: inset 0px 1px 5px -3px rgba(0,0,0,0.1);
+	-moz-box-shadow: inset 0px 1px 5px -3px rgba(0,0,0,0.1);
+	box-shadow: inset 0px 1px 5px -3px rgba(0,0,0,0.1);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;	
+}
+.a_r_input_login{
+	float:left;
+}
+.login_ajax_loader{
+	height:16px;
+	width:17px;
+	background-image:url('./images/ajax-loader-login.gif');
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:-20px;
+	margin-top:7px;
+}
+.login_exist_ajax{
+	height:16px;
+	width:17px;
+	background-image:url('./images/ajax_login_exist.png');
+	float:left;
+	margin-left:-20px;
+	margin-top:6px;
+}
+.checkbox_emul_cnt{
+	margin-top:5px;
+	margin-bottom:16px;
+	height:13px;
+	width:auto;
+}
+.checkbox_emul{
+	height:inherit;
+	width:13px;
+	float:left;
+	background-repeat:no-repeat;
+	background-position:-13px 0;
+	background-image:url('./images/checkbox_icon.gif');
+	cursor:pointer;
+	margin-left:2px;
+}
+.checkbox_emul_checket{
+	background-position:0 center;
+}
+.checkbox_emul_t{
+	height:inherit;
+	width:auto;
+	font-family: arial,sans-serif;
+	color:#555555;
+	font-size:12px;		
+	line-height:13px;
+	margin-left:5px;
+	float:left;
+}

@@ -1,0 +1,2601 @@
+<!DOCTYPE html> <html class="no-js"> <head> <meta charset="utf-8">
+  <meta name="format-detection" content="telephone=no">     <title>Доска бесплатных объявлений от частных лиц и компаний в Республике Дагестан на Avito </title>
+ <meta name="description" content="Бесплатные объявления на Avito - подать бесплатные объявления в Республике Дагестан"><meta name="yandex-verification" content="51a6d66a02fb23c7" /><meta name="yandex-verification" content="6719feb6bc06229e" /><link rel="stylesheet" type="text/css" href="//www.avito.ru/s/cc/fbc736c3b60a9860817eec7a528bb7aba00f17d4.css?660a0ac" /><link rel="stylesheet" type="text/css" href="//www.avito.ru/s/cc/0c5a73d2661cbd9d8be6a9e110c24bc71fa3be3b.css?5806bd2" /><link rel="apple-touch-icon" sizes="57x57" href="//www.avito.ru/s/common/favicon/apple-touch-icon-57x57.png?22c6730" /><link rel="apple-touch-icon" sizes="60x60" href="//www.avito.ru/s/common/favicon/apple-touch-icon-60x60.png?012e182" /><link rel="apple-touch-icon" sizes="72x72" href="//www.avito.ru/s/common/favicon/apple-touch-icon-72x72.png?efb750a" /><link rel="apple-touch-icon" sizes="76x76" href="//www.avito.ru/s/common/favicon/apple-touch-icon-76x76.png?57695cd" /><link rel="apple-touch-icon" sizes="114x114" href="//www.avito.ru/s/common/favicon/apple-touch-icon-114x114.png?950acfd" /><link rel="apple-touch-icon" sizes="120x120" href="//www.avito.ru/s/common/favicon/apple-touch-icon-120x120.png?2c449a5" /><link rel="apple-touch-icon" sizes="144x144" href="//www.avito.ru/s/common/favicon/apple-touch-icon-144x144.png?022a320" /><link rel="apple-touch-icon" sizes="152x152" href="//www.avito.ru/s/common/favicon/apple-touch-icon-152x152.png?9fe05a2" /><meta name="msapplication-TileColor" content="#000000"><meta name="msapplication-TileImage" content="/s/common/favicon/mstile-144x144.png"><meta name="msapplication-config" content="browserconfig.xml" /><link href="//www.avito.ru/favicon.ico?4dedf6e" rel="shortcut icon" type="image/x-icon" /><link href="//www.avito.ru/ya-tableau-manifest-ru.json?cacc83f" rel="yandex-tableau-widget" /><link href="//www.avito.ru/open_search_ru.xml?c968cd1" rel="search" type="application/opensearchdescription+xml" title="Avito" /><link rel="canonical" href="//www.avito.ru/dagestan"/><link rel="stylesheet" type="text/css" href="//www.avito.ru/s/cc/67c890d7b8e7764cf57cc6596331043537900f4f.css?4c6b68b" /><link rel="stylesheet" type="text/css" href="//www.avito.ru/s/cc/ed53021486579ca5dbe7e54116a06e77e0c19e01.css?884f112" /><link rel="stylesheet" type="text/css" href="//www.avito.ru/s/cc/a8cdec6c4639992a2b99df27e175bdc8c81118c7.css?d35005c" /><link rel="stylesheet" type="text/css" href="//www.avito.ru/s/cc/0285a80ad371da37581d5af246b8dbdae2f31e60.css?e9bfaae" /><script>var DC_BackgroundImageUrl="",DC_BackgroundImageIndex=0;DC_startBackgroundImage=function(){var e=parent.document.all?!0:!1;document.addEventListener&&0==e?parent.document.addEventListener("click",DC_callback,!1):attachEvent("onclick",DC_callback),e&&(parent.document.onmousedown=DC_callback)},DC_callback=function(e){var n=e||window.event,a=parent.document.all?!0:!1,t=parent.document.body.clientWidth;a?(tempX=n.clientX+document.body.scrollLeft,tempY=n.clientY+document.body.scrollTop):(tempX=e.pageX,tempY=e.pageY);var c=t/2-500,d=t/2+500;c>tempX||tempX>d?1==DC_BackgroundImageIndex?DC_BackgroundImageIndex=0:DC_BackgroundImageUrl.indexOf("http")>=0&&(myWindow=window.open(DC_BackgroundImageUrl,"")):DC_BackgroundImageIndex=1};</script></head> <body class="RU   "
+  id="catalog" >
+  <script src="//www.avito.ru/s/cc/0690796f876aaf8114042aa5e461494b20b96ec8.js?bd60ceb"></script>   <script src="//www.avito.ru/s/cc/3218a6029786a948863c180179c2d7482e13419b.js?e8e95d1"></script>  <script>var googletag=googletag||{};googletag.cmd=googletag.cmd||[],function(){var t=document.createElement("script");t.async=!0,t.type="text/javascript";var e="https:"==document.location.protocol;t.src=(e?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o)}();</script>  <script>if(window.dfp_Pv_session={},void 0!==window.sessionStorage&&void 0!==window.JSON)try{window.dfp_Pv_session=JSON.parse(sessionStorage.getItem("dfp_views")||"{}")}catch(e){}</script> <script>
+ dfpSlots = window.dfpSlots || {};
+ googletag.cmd.push(function () {
+ googletag.defineSlot('/7870/AR/SearchAll/Root/Search/ldr_low', [[728,90],[1000,90],[1000,120],[970,90],[980,120]], 'ads_ldr_low').addService(googletag.pubads());
+ dfpSlots['ads_ldr_low'] = '/7870/AR/SearchAll/Root/Search/ldr_low';    googletag.defineSlot('/7870/AR/SearchAll/Root/Search/ldr_top', [[980,120],[1000,90],[1000,120],[970,90],[728,90],[1000,200]], 'ads_ldr_top').addService(googletag.pubads());
+ dfpSlots['ads_ldr_top'] = '/7870/AR/SearchAll/Root/Search/ldr_top';    googletag.defineSlot('/7870/AR/SearchAll/Root/Search/vr_low', [[240,400],[300,250],[120,600],[160,600],[300,600],[240,133],[240,160],[240,145],[240,600]], 'ads_vr_low').addService(googletag.pubads());
+ dfpSlots['ads_vr_low'] = '/7870/AR/SearchAll/Root/Search/vr_low';    googletag.defineSlot('/7870/AR/SearchAll/Root/Search/vr_top', [[240,400],[300,250],[120,600],[160,600],[240,133],[240,160],[240,145]], 'ads_vr_top').addService(googletag.pubads());
+ dfpSlots['ads_vr_top'] = '/7870/AR/SearchAll/Root/Search/vr_top';
+ var pubads = googletag.pubads();
+ pubads.collapseEmptyDivs();
+  pubads.setTargeting("g_city", "646710");
+ pubads.setTargeting("g_country", "621540");
+ pubads.setTargeting("g_reg", "646710");
+ pubads.setTargeting("stlogin", [0]);
+ pubads.setTargeting("ip", "62.182.200.78");
+  pubads.setTargeting("page_type", "root");
+ pubads.setTargeting("master_category", "null");
+         googletag.pubads().setTargeting("AudRandom", 97 + '' );window.segments = avito.dfp.getSegments() || '';
+ if (window.segments) {
+ googletag.pubads().setTargeting("AdRS", window.segments + '' );
+ }googletag.pubads().setTargeting("pb1_ldr_low", "/7870/AR/SearchAll/Root/Search/ldr_low_pb1");googletag.pubads().setTargeting("pb1_ldr_top", "/7870/AR/SearchAll/Root/Search/ldr_top_pb1");googletag.pubads().setTargeting("pb1_vr_low", "/7870/AR/SearchAll/Root/Search/vr_low_pb1");  pubads.setTargeting("splittest_mincpm", "experimental" );
+ if (window.dfp_Pv_session) {
+ for (var code in window.dfp_Pv_session) {
+ pubads.setTargeting("PV_session_" + code, window.dfp_Pv_session[code] + '');
+ }
+ }
+ googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+ slotRenderCallback( event );
+ });
+ googletag.enableServices();
+ });
+ </script>
+ 
+ <script>
+ var static_prefix = '//www.avito.ru';
+ </script>
+     <script>adsRequestCounter=function(){(new Image).src="//www.avito.ru/stat/ad?k="+encodeURIComponent("as:adId;e:event")+"&r="+Math.random()};</script> <script>var cb=new Date().getTime();var asiPqTag=false;try{document.write("<sc"+"ript async='async' type='text/javascript' language='JavaScript' src='//pq-direct.revsci.net/pql?placementIdList=WmlWH3,bHZAbX,R7M4dd,Q6qfLa,WzXrYC&cb="+cb+"'></sc"+"ript>");}catch(err){}</script> <script>if("undefined"!=typeof asiPlacements)for(var p in asiPlacements)window["ASPQ_"+p]=asiPlacements[p].default?"PQ_"+p+"=T":"",asiPlacements[p].default&&googletag.pubads().setTargeting("PQ_"+p,"T");</script>               <div class="b-header"> <div class="header-service"> <div class="header-service__inner clearfix">
+  <div class="header__profile "> <div class="header__profile-enter"> <a class="header__profile-enter__link " href="//www.avito.ru/profile">
+ <i class="i i-profile"></i><span class="fader">Вход и регистрация</span> </a> </div>
+  
+ </div>
+    <div class="header__favorites  header__favorites_empty j-favorites-count__wrap"> <a class="header__favorites__link" href="//www.avito.ru/favorites"> <i class="i i-favorites"></i> <i class="header__favorites__count j-favorites-count">0</i> </a> </div>
+  <ul class="header__service-nav"><li class="header__service-nav__item header__service-nav__item_active">
+       <a class="header__service-nav__link" href="//www.avito.ru/dagestan" >Объявления</a> </li><li class="header__service-nav__item ">
+          <a class="header__service-nav__link" href="//www.avito.ru/shops/dagestan" >Магазины</a> </li><li class="header__service-nav__item ">
+    <a class="header__service-nav__link" href="//support.avito.ru/hc/ru" >Помощь</a> </li></ul> </div> </div>
+  <div class="header-basic j-header-2"> <div class="header-basic__inner clearfix">
+     
+ <a class="header__logo" href="//www.avito.ru/" title="Avito &mdash; сайт бесплатных объявлений"><span class="avito-logo"></span></a>
+  
+ <ul class="header__category-menu"><li class="header__category-menu__item "> <a class="header__category-menu__link" href="//www.avito.ru/dagestan/transport">Авто</a> </li><li class="header__category-menu__item "> <a class="header__category-menu__link" href="//www.avito.ru/dagestan/nedvizhimost">Недвижимость</a> </li><li class="header__category-menu__item "> <a class="header__category-menu__link" href="//www.avito.ru/dagestan/rabota">Работа</a> </li><li class="header__category-menu__item "> <a class="header__category-menu__link" href="//www.avito.ru/dagestan/uslugi">Услуги</a> </li><li class="header__category-menu__item header__category-menu__item_more"> <a class="header__category-menu__link j-header__more">ещё...</a> <div class="b-tooltip b-tooltip-bottom j-header__more-popup"> <div class="b-tooltip-arrow j-header__more-arrow"></div>
+ 
+ <div class="header__all-category clearfix"> <div class="header__all-category__all"> <a href="//www.avito.ru/dagestan">Все категории</a> </div> <div class="header__all-category__collumn-wrap">
+  <div class="header__all-category__collumn">
+  <ul class="header__all-category__list">
+   <li class="header__all-category__item header__all-category__item_parent"> <a class="header__all-category__link" href="//www.avito.ru/dagestan/transport">Транспорт</a> </li>
+                      <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/avtomobili_s_probegom">Автомобили с пробегом</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/novye_avtomobili">Новые автомобили</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/mototsikly_i_mototehnika">Мотоциклы и мототехника</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/gruzoviki_i_spetstehnika">Грузовики и спецтехника</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/vodnyy_transport">Водный транспорт</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/zapchasti_i_aksessuary">Запчасти и аксессуары</a> </li>
+                                                                                                 </ul>
+  <ul class="header__all-category__list">
+             <li class="header__all-category__item header__all-category__item_parent"> <a class="header__all-category__link" href="//www.avito.ru/dagestan/dlya_doma_i_dachi">Для дома и дачи</a> </li>
+                                                        <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/bytovaya_tehnika">Бытовая техника</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/mebel_i_interer">Мебель и интерьер</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/posuda_i_tovary_dlya_kuhni">Посуда и товары для кухни</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/produkty_pitaniya">Продукты питания</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/remont_i_stroitelstvo">Ремонт и строительство</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/rasteniya">Растения</a> </li>
+                                                     </ul>
+  <ul class="header__all-category__list">
+                     <li class="header__all-category__item header__all-category__item_parent"> <a class="header__all-category__link" href="//www.avito.ru/dagestan/dlya_biznesa">Для бизнеса</a> </li>
+                                                                                                          <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/gotoviy_biznes">Готовый бизнес</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/oborudovanie_dlya_biznesa">Оборудование для бизнеса</a> </li>
+   </ul>
+  </div>
+  <div class="header__all-category__collumn">
+  <ul class="header__all-category__list">
+     <li class="header__all-category__item header__all-category__item_parent"> <a class="header__all-category__link" href="//www.avito.ru/dagestan/nedvizhimost">Недвижимость</a> </li>
+                                <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/kvartiry">Квартиры</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/komnaty">Комнаты</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/doma_dachi_kottedzhi">Дома, дачи, коттеджи</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/zemelnye_uchastki">Земельные участки</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/garazhi_i_mashinomesta">Гаражи и машиноместа</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/kommercheskaya_nedvizhimost">Коммерческая недвижимость</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/nedvizhimost_za_rubezhom">Недвижимость за рубежом</a> </li>
+                                                                                   </ul>
+  <ul class="header__all-category__list">
+               <li class="header__all-category__item header__all-category__item_parent"> <a class="header__all-category__link" href="//www.avito.ru/dagestan/bytovaya_elektronika">Бытовая электроника</a> </li>
+                                                                  <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/audio_i_video">Аудио и видео</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/igry_pristavki_i_programmy">Игры, приставки и программы</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/nastolnye_kompyutery">Настольные компьютеры</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/noutbuki">Ноутбуки</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/orgtehnika_i_rashodniki">Оргтехника и расходники</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/planshety_i_elektronnye_knigi">Планшеты и электронные книги</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/telefony">Телефоны</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/tovary_dlya_kompyutera">Товары для компьютера</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/fototehnika">Фототехника</a> </li>
+                                   </ul>
+  </div>
+  <div class="header__all-category__collumn">
+  <ul class="header__all-category__list">
+       <li class="header__all-category__item header__all-category__item_parent"> <a class="header__all-category__link" href="//www.avito.ru/dagestan/rabota">Работа</a> </li>
+                                            <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/vakansii">Вакансии</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/rezume">Резюме</a> </li>
+                                                                               </ul>
+  <ul class="header__all-category__list">
+         <li class="header__all-category__item header__all-category__item_parent"> <a class="header__all-category__link" href="//www.avito.ru/dagestan/uslugi">Услуги</a> </li>
+                                              <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/predlozheniya_uslug">Предложения услуг</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/zaprosy_na_uslugi">Запросы на услуги</a> </li>
+                                                                           </ul>
+  <ul class="header__all-category__list">
+                 <li class="header__all-category__item header__all-category__item_parent"> <a class="header__all-category__link" href="//www.avito.ru/dagestan/hobbi_i_otdyh">Хобби и отдых</a> </li>
+                                                                                  <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/bilety_i_puteshestviya">Билеты и путешествия</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/velosipedy">Велосипеды</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/knigi_i_zhurnaly">Книги и журналы</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/kollektsionirovanie">Коллекционирование</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/muzykalnye_instrumenty">Музыкальные инструменты</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/ohota_i_rybalka">Охота и рыбалка</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/sport_i_otdyh">Спорт и отдых</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/znakomstva">Знакомства</a> </li>
+                   </ul>
+  </div>
+  <div class="header__all-category__collumn">
+  <ul class="header__all-category__list">
+           <li class="header__all-category__item header__all-category__item_parent"> <a class="header__all-category__link" href="//www.avito.ru/dagestan/lichnye_veschi">Личные вещи</a> </li>
+                                                <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/odezhda_obuv_aksessuary">Одежда, обувь, аксессуары</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/detskaya_odezhda_i_obuv">Детская одежда и обувь</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/tovary_dlya_detey_i_igrushki">Товары для детей и игрушки</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/chasy_i_ukrasheniya">Часы и украшения</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/krasota_i_zdorove">Красота и здоровье</a> </li>
+                                                                 </ul>
+  <ul class="header__all-category__list">
+                   <li class="header__all-category__item header__all-category__item_parent"> <a class="header__all-category__link" href="//www.avito.ru/dagestan/zhivotnye">Животные</a> </li>
+                                                                                                <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/sobaki">Собаки</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/koshki">Кошки</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/ptitsy">Птицы</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/akvarium">Аквариум</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/drugie_zhivotnye">Другие животные</a> </li>
+    <li class="header__all-category__item "> <a class="header__all-category__link" href="//www.avito.ru/dagestan/tovary_dlya_zhivotnyh">Товары для животных</a> </li>
+       </ul>
+  </div>
+  </div> </div> </div> </li> </ul>
+  <div class="header__add-item">
+ <a href="//www.avito.ru/additem" class="btn-plain btn-plain_blue">Подать объявление</a> </div> </div> </div> </div>
+   <div class="layout-internal col-12">
+  
+<div class="b-search-form b-search-form_catalog "> <form id="search_form" class="b-form search-form__form"
+ action="/search" method="post" >
+   
+ <div class="search-form__row search-form__row_1 clearfix">
+  <div class="search-form__category"> <div class="form-select">
+   <select id="category" name="category_id"
+  > <option value="">Любая категория</option>
+    <option value="1" class="opt-group" >Транспорт</option>
+     <option value="9" >Автомобили с пробегом</option>
+    <option value="109" >Новые автомобили</option>
+    <option value="14" >Мотоциклы и мототехника</option>
+    <option value="81" >Грузовики и спецтехника</option>
+    <option value="11" >Водный транспорт</option>
+    <option value="10" >Запчасти и аксессуары</option>
+     <option value="4" class="opt-group" >Недвижимость</option>
+     <option value="24" >Квартиры</option>
+    <option value="23" >Комнаты</option>
+    <option value="25" >Дома, дачи, коттеджи</option>
+    <option value="26" >Земельные участки</option>
+    <option value="85" >Гаражи и машиноместа</option>
+    <option value="42" >Коммерческая недвижимость</option>
+    <option value="86" >Недвижимость за рубежом</option>
+     <option value="110" class="opt-group" >Работа</option>
+     <option value="111" >Вакансии</option>
+    <option value="112" >Резюме</option>
+     <option value="113" class="opt-group" >Услуги</option>
+     <option value="114" >Предложения услуг</option>
+    <option value="115" >Запросы на услуги</option>
+     <option value="5" class="opt-group" >Личные вещи</option>
+     <option value="27" >Одежда, обувь, аксессуары</option>
+    <option value="29" >Детская одежда и обувь</option>
+    <option value="30" >Товары для детей и игрушки</option>
+    <option value="28" >Часы и украшения</option>
+    <option value="88" >Красота и здоровье</option>
+     <option value="2" class="opt-group" >Для дома и дачи</option>
+     <option value="21" >Бытовая техника</option>
+    <option value="20" >Мебель и интерьер</option>
+    <option value="87" >Посуда и товары для кухни</option>
+    <option value="82" >Продукты питания</option>
+    <option value="19" >Ремонт и строительство</option>
+    <option value="106" >Растения</option>
+     <option value="6" class="opt-group" >Бытовая электроника</option>
+     <option value="32" >Аудио и видео</option>
+    <option value="97" >Игры, приставки и программы</option>
+    <option value="31" >Настольные компьютеры</option>
+    <option value="98" >Ноутбуки</option>
+    <option value="99" >Оргтехника и расходники</option>
+    <option value="96" >Планшеты и электронные книги</option>
+    <option value="84" >Телефоны</option>
+    <option value="101" >Товары для компьютера</option>
+    <option value="105" >Фототехника</option>
+     <option value="7" class="opt-group" >Хобби и отдых</option>
+     <option value="33" >Билеты и путешествия</option>
+    <option value="34" >Велосипеды</option>
+    <option value="83" >Книги и журналы</option>
+    <option value="36" >Коллекционирование</option>
+    <option value="38" >Музыкальные инструменты</option>
+    <option value="102" >Охота и рыбалка</option>
+    <option value="39" >Спорт и отдых</option>
+    <option value="103" >Знакомства</option>
+     <option value="35" class="opt-group" >Животные</option>
+     <option value="89" >Собаки</option>
+    <option value="90" >Кошки</option>
+    <option value="91" >Птицы</option>
+    <option value="92" >Аквариум</option>
+    <option value="93" >Другие животные</option>
+    <option value="94" >Товары для животных</option>
+     <option value="8" class="opt-group" >Для бизнеса</option>
+     <option value="116" >Готовый бизнес</option>
+    <option value="40" >Оборудование для бизнеса</option>
+    </select> </div> </div>
+  <div class="search-form__submit"> <input type="submit" value="Найти" class="search btn" /> </div>
+                         <div class="search-form__direction"> <div id="directions" class="form-select param filter-tooltip hidden"> <select name="[]" id="directions-select" class="directions"  data-filter="1"> <option data-prev-alias="" value="">Направление</option>
+  </select> <select multiple class="hidden-input-for-tab" id="directions-multiple">
+  <optgroup label="направление" data-filter-name="Направление" data-alias="road" class="hidden">
+  </optgroup>
+  <optgroup label="метро" data-filter-name="Станция метро" data-alias="metro" class="hidden">
+  </optgroup>
+  <optgroup label="район" data-filter-name="Район" data-alias="district" class="hidden">
+  </optgroup>
+  </select> </div> </div>
+   <div class="search-form__location"> <div class="form-select"> <select id="region" name="location_id" data-city-id="">
+ <option
+  data-parent-id=""
+  value="621540"
+  >По всей России</option><option
+ data-region="1" data-parent-id="621540"
+  value="646710"
+  selected >Дагестан</option><option disabled="disabled" class="opt-group">-- Города --</option><option
+  data-parent-id="646710"
+  value="647420"
+  >Махачкала</option><option
+  data-parent-id="646710"
+  value="646890"
+  >Буйнакск</option><option
+  data-parent-id="646710"
+  value="647020"
+  >Дагестанские Огни</option><option
+  data-parent-id="646710"
+  value="647030"
+  >Дербент</option><option
+  data-parent-id="646710"
+  value="647090"
+  >Избербаш</option><option
+  data-parent-id="646710"
+  value="647150"
+  >Каспийск</option><option
+  data-parent-id="646710"
+  value="647190"
+  >Кизилюрт</option><option
+  data-parent-id="646710"
+  value="647200"
+  >Кизляр</option><option
+  data-parent-id="646710"
+  value="647330"
+  >Леваши</option><option
+  data-parent-id="646710"
+  value="647370"
+  >Магарамкент</option><option
+  data-parent-id="646710"
+  value="647940"
+  >Хасавюрт</option> <option value="0" id="select-region" rel="#overlay">Выбрать другой...</option> </select> </div> </div>
+  <div class="search-form__key-words"> <div id="search_holder" class="search-form__key-words__search-holder"> <input id="search"
+ type="text" name="name" value=""
+ placeholder="Поиск по объявлениям"
+ autocomplete="off"
+  spellcheck="false" data-suggest="true" maxlength="100"/> </div> </div> </div> <div class="search-form__row search-form__row_2   " id="pre-filters"> <label for="match"><input type="checkbox" name="bt" id="match"  class="form-input-checkbox" />искать только в названиях</label> <label for="images_exists"><input type="checkbox" name="i" id="images_exists"  class="form-input-checkbox" />только с фото</label>
+   </div>
+  <div class="filters" id="search_filters"  style="display: none;">
+  </div> </form> </div> </div>
+
+ <div class="j-page layout-internal col-12 j-autosuggest__search-list-container"> <div class="l-content">
+    <script>avito.itemsStatUrlParams = { t : '1413062139', x : 'gll559gn63kgwccc4w8404kc0s8sowk' };</script>
+    <div class="b-catalog-breadcrumbs"> <div class="breadcrumbs-list">
+  <span class="breadcrumb-link-active" >Все объявления в Республике Дагестан</span>  <span class="breadcrumbs-link-count">142&nbsp;098</span>
+   </div> </div>  <div class="b-catalog-counts">
+  <div class="catalog_counts">
+  
+ <div class="catalog_counts-cl"> <div class="catalog_counts-cl-inner"> <ul>
+    <li> <a class="count-link" href="/dagestan/nedvizhimost" title="Недвижимость в Республике Дагестан">
+ Недвижимость </a><span>39&nbsp;514</span></li>
+    <li> <a class="count-link" href="/dagestan/transport" title="Транспорт в Республике Дагестан">
+ Транспорт </a><span>27&nbsp;609</span></li>
+    <li> <a class="count-link" href="/dagestan/lichnye_veschi" title="Одежда, обувь, аксессуары, украшения и другие личные вещи в Республике Дагестан">
+ Личные вещи </a><span>19&nbsp;381</span></li>
+    </ul> <ul class="catalog_counts-nm">
+   <li> <a class="count-link" href="/dagestan/bytovaya_elektronika" title="Бытовая электроника в Республике Дагестан">
+ Бытовая электроника </a><span>14&nbsp;724</span></li>
+    <li> <a class="count-link" href="/dagestan/rabota" title="Работа в Республике Дагестан">
+ Работа </a><span>12&nbsp;370</span></li>
+    <li> <a class="count-link" href="/dagestan/dlya_doma_i_dachi" title="Всё для дома и дачи в Республике Дагестан">
+ Для дома и дачи </a><span>11&nbsp;445</span></li>
+    </ul> <ul class="catalog_counts-nm">
+   <li> <a class="count-link" href="/dagestan/uslugi" title="Услуги в Республике Дагестан">
+ Услуги </a><span>9&nbsp;073</span><i class="i-new"></i></li>
+    <li> <a class="count-link" href="/dagestan/dlya_biznesa" title="Всё для бизнеса в Республике Дагестан">
+ Для бизнеса </a><span>3&nbsp;298</span></li>
+    <li> <a class="count-link" href="/dagestan/hobbi_i_otdyh" title="Всё для хобби, спорта и отдыха в Республике Дагестан">
+ Хобби и отдых </a><span>2&nbsp;866</span></li>
+    </ul> <ul class="catalog_counts-nm">
+   <li> <a class="count-link" href="/dagestan/zhivotnye" title="Покупка и продажа животных в Республике Дагестан">
+ Животные </a><span>1&nbsp;818</span></li>
+  </ul> </div> <span class="catalog_counts_shadow"></span> </div> </div>
+   <div class="catalog_counts" data-counter-idx="1" data-counter-cols-full="" data-counter-cols-full="">
+  <script type="text/javascript">
+ var avito = avito || { }; avito.counters = avito.counters || { };
+ avito.counters[1] = [{"name":"Махачкала","cnt":102329,"url":"\/mahachkala"},{"name":"Аксай","cnt":52,"url":"\/dagestan_aksay"},{"name":"Акуша","cnt":79,"url":"\/akusha"},{"name":"Альбурикент","cnt":21,"url":"\/alburikent"},{"name":"Анди","cnt":10,"url":"\/andi"},{"name":"Ансалта","cnt":3,"url":"\/ansalta"},{"name":"Ахты","cnt":68,"url":"\/ahty"},{"name":"Бабаюрт","cnt":273,"url":"\/babayurt"},{"name":"Белиджи","cnt":126,"url":"\/dagestan_belidzhi_x"},{"name":"Ботлих","cnt":44,"url":"\/botlih"},{"name":"Буйнакск","cnt":3384,"url":"\/buynaksk"},{"name":"Верхнее Казанище","cnt":4,"url":"\/verhnee_kazanische"},{"name":"Геджух","cnt":13,"url":"\/gedzhuh"},{"name":"Гергебиль","cnt":54,"url":"\/gergebil"},{"name":"Губден","cnt":149,"url":"\/gubden"},{"name":"Дагестанские Огни","cnt":550,"url":"\/dagestanskie_ogni"},{"name":"Дербент","cnt":8003,"url":"\/derbent"},{"name":"Дубки","cnt":19,"url":"\/dagestan_dubki"},{"name":"Дылым","cnt":23,"url":"\/dylym"},{"name":"Зубутли-Миатли","cnt":13,"url":"\/zubutli-miatli"},{"name":"Избербаш","cnt":2802,"url":"\/izberbash"},{"name":"Кака-Шура","cnt":11,"url":"\/kaka-shura"},{"name":"Карабудахкент","cnt":158,"url":"\/karabudahkent"},{"name":"Каспийск","cnt":8954,"url":"\/kaspiysk"},{"name":"Касумкент","cnt":172,"url":"\/kasumkent"},{"name":"Каякент","cnt":146,"url":"\/kayakent"},{"name":"Кизилюрт","cnt":2364,"url":"\/kizilyurt"},{"name":"Кизляр","cnt":2072,"url":"\/dagestan_kizlyar"},{"name":"Комсомольское","cnt":3,"url":"\/dagestan_komsomolskoe"},{"name":"Коркмаскала","cnt":68,"url":"\/korkmaskala"},{"name":"Кочубей","cnt":65,"url":"\/kochubey"},{"name":"Куруш","cnt":6,"url":"\/kurush"},{"name":"Кяхулай","cnt":3,"url":"\/kyahulay"},{"name":"Леваши","cnt":438,"url":"\/levashi"},{"name":"Ленинкент","cnt":44,"url":"\/leninkent"},{"name":"Магарамкент","cnt":201,"url":"\/magaramkent"},{"name":"Маджалис","cnt":102,"url":"\/madzhalis"},{"name":"Мамедкала","cnt":55,"url":"\/mamedkala"},{"name":"Манаскент","cnt":171,"url":"\/dagestan_manaskent_x"},{"name":"Нечаевка","cnt":6,"url":"\/nechaevka"},{"name":"Нижнее Казанище","cnt":12,"url":"\/nizhnee_kazanische"},{"name":"Нижний Дженгутай","cnt":6,"url":"\/nizhniy_dzhengutay"},{"name":"Новая Мака","cnt":20,"url":"\/novaya_maka"},{"name":"Новокаякент","cnt":21,"url":"\/novokayakent"},{"name":"Новолакское","cnt":15,"url":"\/novolakskoe"},{"name":"Новый Кяхулай","cnt":19,"url":"\/novyy_kyahulay"},{"name":"Новый Сулак","cnt":6,"url":"\/novyy_sulak"},{"name":"Новый Хушет","cnt":35,"url":"\/novyy_hushet"},{"name":"Новый Чиркей","cnt":43,"url":"\/novyy_chirkey"},{"name":"Первомайское","cnt":15,"url":"\/dagestan_pervomayskoe"},{"name":"Семендер","cnt":35,"url":"\/semender"},{"name":"Сергокала","cnt":55,"url":"\/sergokala"},{"name":"Сулак","cnt":6,"url":"\/sulak"},{"name":"Тарки","cnt":2,"url":"\/tarki"},{"name":"Тарумовка","cnt":65,"url":"\/tarumovka"},{"name":"Терекли-Мектеб","cnt":73,"url":"\/terekli-mekteb"},{"name":"Тюбе","cnt":49,"url":"\/tyube"},{"name":"Усиша","cnt":3,"url":"\/usisha"},{"name":"Хасавюрт","cnt":8416,"url":"\/hasavyurt"},{"name":"Чонтаул","cnt":9,"url":"\/chontaul"},{"name":"Шамилькала","cnt":56,"url":"\/shamilkala"},{"name":"Шамхал","cnt":35,"url":"\/shamhal"},{"name":"Южно-Сухокумск","cnt":44,"url":"\/yuzhno-suhokumsk"}];
+ </script> <div class="catalog_counts-switch"> <span class="catalog_counts-switch_on">Крупнейшие города</span><span class="pseudo-link">все</span> </div>
+  
+ <div class="catalog_counts-cl"> <div class="catalog_counts-cl-inner"> <ul>
+    <li> <a class="count-link" href="/mahachkala" title="">
+ Махачкала </a><span>102&nbsp;329</span></li>
+    <li> <a class="count-link" href="/buynaksk" title="">
+ Буйнакск </a><span>3&nbsp;384</span></li>
+    </ul> <ul class="catalog_counts-nm">
+   <li> <a class="count-link" href="/dagestanskie_ogni" title="">
+ Дагестанские Огни </a><span>550</span></li>
+    <li> <a class="count-link" href="/derbent" title="">
+ Дербент </a><span>8&nbsp;003</span></li>
+    </ul> <ul class="catalog_counts-nm">
+   <li> <a class="count-link" href="/izberbash" title="">
+ Избербаш </a><span>2&nbsp;802</span></li>
+    <li> <a class="count-link" href="/kaspiysk" title="">
+ Каспийск </a><span>8&nbsp;954</span></li>
+    </ul> <ul class="catalog_counts-nm">
+   <li> <a class="count-link" href="/kizilyurt" title="">
+ Кизилюрт </a><span>2&nbsp;364</span></li>
+    <li> <a class="count-link" href="/dagestan_kizlyar" title="">
+ Кизляр </a><span>2&nbsp;072</span></li>
+    </ul> <ul class="catalog_counts-nm">
+   <li> <a class="count-link" href="/levashi" title="">
+ Леваши </a><span>438</span></li>
+    <li> <a class="count-link" href="/hasavyurt" title="">
+ Хасавюрт </a><span>8&nbsp;416</span></li>
+  </ul> </div> <span class="catalog_counts_shadow"></span> </div> </div>
+  </div>
+        
+ <div id="ads_ldr_top" data-banner-code="ldr_top" class="dfp g_125 ad_1000x120" data-dfpslot="/7870/AR/SearchAll/Root/Search/ldr_top"> <div id="yandex_ad_R-110115-302"></div> <script>
+ var g_rtb_yandex_ldr_top_page_id = "R-110115-302",
+ yandexLdrTopCounterSlot = '6_R-110115-302-rtb'.replace( 'R-','' );
+ </script>
+   <script>adsRequestCounter(yandexLdrTopCounterSlot,'r');(function(w,n){w[n]=w[n]||[];w[n].push(function(){Ya.Context.AdvManager.render({blockId:g_rtb_yandex_ldr_top_page_id,renderTo:"yandex_ad_"+g_rtb_yandex_ldr_top_page_id,async:false},function(){adsRequestCounter(yandexLdrTopCounterSlot,'p');if(googletag){adsRequestCounter(window.dfpSlots['ads_ldr_top'],'r');googletag.cmd.push(function(){googletag.display('ads_ldr_top');});}});});document.write('<sc'+'ript type="text/javascript" src="//an.yandex.ru/system/context.js"></sc'+'ript>');})(this,"yandexContextSyncCallbacks");</script>  </div>
+ 
+ <div class="catalog-wrapper clearfix"> <div class="catalog catalog_table">
+ <div class="catalog-filters b-form clearfix">
+      <div class="catalog-filters-sort form-select form-select_btn-white"> <select class="j-sort-select"> <option selected data-default='1' value="4">По дате</option> <option   value="1">Дешевле</option> <option   value="2">Дороже</option> </select> </div>
+ 
+ <div class="catalog-views btn-white__group">
+    <a href="/dagestan?view=gallery" class="btn btn-white" title="Показать большие фото" rel="nofollow"> <i class="i-catalog-view i-catalog-view_gallery"></i> <span class="btn-white__shadow"></span> </a>
+    <span class="btn btn-white active" title="Выводить списком с фото"> <i class="i-catalog-view i-catalog-view_table"></i> <span class="btn-white__shadow"></span> </span>
+    <a href="/dagestan?view=list" class="btn btn-white" title="Выводить списком без фото" rel="nofollow"> <i class="i-catalog-view i-catalog-view_list"></i> <span class="btn-white__shadow"></span> </a>
+   </div> <div class="catalog-filters-user btn-white__group"><span class="btn btn-white active">
+ Все
+ <span class="btn-white__shadow"></span> </span><a class="btn btn-white j-catalog-filter" href="/dagestan?user=1" title="Объявления частных продавцов" data-user="1">
+ Частные
+ <span class="btn-white__shadow"></span> </a><a class="btn btn-white j-catalog-filter" href="/dagestan?user=2" title="Объявления компаний и магазинов" data-user="2">
+ Компании
+ <span class="btn-white__shadow"></span> </a></div> </div>         <div class="catalog-list catalog-list_ clearfix">
+             
+<div class="item item_table clearfix c-b-2" id="i421958863" data-type="2">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/derbent/odezhda_obuv_aksessuary/roberto_feretti_italiya_original_421958863"
+ title="Объявление &laquo;Роберто феретти италия оригинал&raquo; (5 фотографий)">
+   <img src="//39.img.avito.st/140x105/1094688639.jpg" class="photo-count-show" alt="Роберто феретти италия оригинал" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/421958863"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/derbent/odezhda_obuv_aksessuary/roberto_feretti_italiya_original_421958863" title="Роберто феретти италия оригинал в Дербенте">
+ Роберто феретти италия оригинал</a> </h3>
+  <div class="about">
+  <span>1&nbsp;900</span> <span>руб.</span>
+  <a href="/derbent/odezhda_obuv_aksessuary/roberto_feretti_italiya_original_421958863" class="price-lower no-border" title="Продавец снизил цену">&#160;</a>&nbsp;
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Одежда, обувь, аксессуары</span>  </p>
+   <p>Дербент</p>
+  
+ <div class="date">
+ Сегодня 00:41
+ </div> </div>
+  <div class="vas-applied"> <!--noindex-->
+ <a title="Премиум-объявление" class="icon-link link_plain" href="/info/usluga_premium_obyavleniya?plain&amp;itemId=421958863" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-premium i-vas-s-gray"></i></a> <a title="VIP-объявление" class="icon-link link_plain" href="/info/usluga_vip_obyavleniya?plain&amp;itemId=421958863" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-vip i-vas-s-gray"></i></a> <a title="Выделенное объявление" class="icon-link link_plain" href="/info/usluga_vydelenie_obyavleniya?plain&amp;itemId=421958863" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-highlight i-vas-s-gray"></i></a>  <!--/noindex--> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-2" id="i319314268" data-type="2">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/mebel_i_interer/uglovye_divany_319314268"
+ title="Объявление &laquo;Угловые диваны&raquo; (5 фотографий)">
+   <img src="//84.img.avito.st/140x105/1025240984.jpg" class="photo-count-show" alt="Угловые диваны" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/319314268"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/mebel_i_interer/uglovye_divany_319314268" title="Угловые диваны в Махачкале">
+ Угловые диваны</a> </h3>
+  <div class="about">
+  <span>15&nbsp;500</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Мебель и интерьер</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:39
+ </div> </div>
+  <div class="vas-applied"> <!--noindex-->
+ <a title="Премиум-объявление" class="icon-link link_plain" href="/info/usluga_premium_obyavleniya?plain&amp;itemId=319314268" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-premium i-vas-s-gray"></i></a> <a title="VIP-объявление" class="icon-link link_plain" href="/info/usluga_vip_obyavleniya?plain&amp;itemId=319314268" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-vip i-vas-s-gray"></i></a> <a title="Выделенное объявление" class="icon-link link_plain" href="/info/usluga_vydelenie_obyavleniya?plain&amp;itemId=319314268" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-highlight i-vas-s-gray"></i></a>  <!--/noindex--> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-2" id="i426379360" data-type="2">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/gotoviy_biznes/deystvuyuschee_kafe_426379360"
+ title="Объявление &laquo;Действующее кафе&raquo; (5 фотографий)">
+   <img src="//23.img.avito.st/140x105/1109046823.jpg" class="photo-count-show" alt="Действующее кафе" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/426379360"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/gotoviy_biznes/deystvuyuschee_kafe_426379360" title="Действующее кафе в Махачкале">
+ Действующее кафе</a> </h3>
+  <div class="about">
+  <span>4&nbsp;500&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Готовый бизнес</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:37
+ </div> </div>
+  <div class="vas-applied"> <!--noindex-->
+ <a title="Премиум-объявление" class="icon-link link_plain" href="/info/usluga_premium_obyavleniya?plain&amp;itemId=426379360" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-premium i-vas-s-gray"></i></a> <a title="VIP-объявление" class="icon-link link_plain" href="/info/usluga_vip_obyavleniya?plain&amp;itemId=426379360" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-vip i-vas-s-gray"></i></a> <a title="Выделенное объявление" class="icon-link link_plain" href="/info/usluga_vydelenie_obyavleniya?plain&amp;itemId=426379360" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-highlight i-vas-s-gray"></i></a>  <!--/noindex--> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431632075" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/novaya_maka/doma_dachi_kottedzhi/dom_150_m_na_uchastke_12_sot._431632075"
+ title="Объявление &laquo;Дом 150 м² на участке 12 сот.&raquo; (4 фотографии)">
+   <img src="//81.img.avito.st/140x105/1126518681.jpg" class="photo-count-show" alt="Дом 150 м² на участке 12 сот." />
+    <span class="photo-icons"><i class="i i-photo">4</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431632075"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/novaya_maka/doma_dachi_kottedzhi/dom_150_m_na_uchastke_12_sot._431632075" title="Дом 150 м² на участке 12 сот. в Новой Маке">
+ Дом 150 м² на участке 12 сот.</a> </h3>
+  <div class="about">
+  <span>700&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Дома, дачи, коттеджи</span>  </p>
+   <p>Новая Мака</p>
+  
+ <div class="date">
+ Сегодня 00:44
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431631726" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/avtomobili_s_probegom/lada_largus_2008_431631726"
+ title="Объявление &laquo;LADA Largus, 2008&raquo; (3 фотографии)">
+   <img src="//79.img.avito.st/140x105/1126507279.jpg" class="photo-count-show" alt="LADA Largus, 2008" />
+    <span class="photo-icons"><i class="i i-photo">3</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431631726"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/avtomobili_s_probegom/lada_largus_2008_431631726" title="LADA Largus, 2008 в Махачкале">
+ LADA Largus, 2008</a> </h3>
+  <div class="about">
+   </div>
+   
+ <div class="data">
+    <p>
+ <span>Автомобили с пробегом</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:43
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i430854443" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/avtomobili_s_probegom/toyota_camry_2007_430854443"
+ title="Объявление &laquo;Toyota Camry, 2007&raquo; (4 фотографии)">
+   <img src="//21.img.avito.st/140x105/1123810721.jpg" class="photo-count-show" alt="Toyota Camry, 2007" />
+    <span class="photo-icons"><i class="i i-photo">4</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/430854443"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/avtomobili_s_probegom/toyota_camry_2007_430854443" title="Toyota Camry, 2007 в Махачкале">
+ Toyota Camry, 2007</a> </h3>
+  <div class="about">
+  <span>630&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Автомобили с пробегом</span>  <span class="data-sep"> | </span>  Автодилер
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:42
+ </div> </div>
+  <div class="vas-applied"> <!--noindex-->
+    <a title="Объявление поднято в поиске сегодня в 00:42" class="icon-link link_plain" href="/info/usluga_podnyat_obyavleniya?plain&amp;itemId=430854443" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-up i-vas-s-gray"></i></a> <!--/noindex--> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431631112" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/avtomobili_s_probegom/lada_kalina_2008_431631112"
+ title="Объявление &laquo;LADA Kalina, 2008&raquo; (3 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//79.img.avito.st/140x105/1126515779.jpg" class="photo-count-show" alt="LADA Kalina, 2008" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//79.img.avito.st/140x105/1126515779.jpg" alt="LADA Kalina, 2008" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">3</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431631112"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/avtomobili_s_probegom/lada_kalina_2008_431631112" title="LADA Kalina, 2008 в Махачкале">
+ LADA Kalina, 2008</a> </h3>
+  <div class="about">
+  <span>120&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Автомобили с пробегом</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:41
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431631070" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/avtomobili_s_probegom/lexus_is_2007_431631070"
+ title="Объявление &laquo;Lexus IS, 2007&raquo; (9 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//78.img.avito.st/140x105/1126489878.jpg" class="photo-count-show" alt="Lexus IS, 2007" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//78.img.avito.st/140x105/1126489878.jpg" alt="Lexus IS, 2007" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">9</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431631070"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/avtomobili_s_probegom/lexus_is_2007_431631070" title="Lexus IS, 2007 в Махачкале">
+ Lexus IS, 2007</a> </h3>
+  <div class="about">
+  <span>625&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Автомобили с пробегом</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:41
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431630764" data-type="1">
+ 
+ <div class="b-photo">
+    
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431630764"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/akvarium/akvarium_45_litrov_431630764" title="Аквариум 45 литров в Махачкале">
+ Аквариум 45 литров</a> </h3>
+  <div class="about">
+  <span>3&nbsp;500</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Аквариум</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:40
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431630604" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/hasavyurt/noutbuki/noutbuk_431630604"
+ title="Объявление &laquo;Ноутбук&raquo; (5 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//73.img.avito.st/140x105/1126513573.jpg" class="photo-count-show" alt="Ноутбук" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//73.img.avito.st/140x105/1126513573.jpg" alt="Ноутбук" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431630604"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/hasavyurt/noutbuki/noutbuk_431630604" title="Ноутбук в Хасавюрте">
+ Ноутбук</a> </h3>
+  <div class="about">
+  <span>1&nbsp;500</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Ноутбуки</span>  </p>
+   <p>Хасавюрт</p>
+  
+ <div class="date">
+ Сегодня 00:40
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431630403" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/tovary_dlya_detey_i_igrushki/detskaya_krovat_431630403"
+ title="Объявление &laquo;Детская кровать&raquo; (3 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//35.img.avito.st/140x105/1126515935.jpg" class="photo-count-show" alt="Детская кровать" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//35.img.avito.st/140x105/1126515935.jpg" alt="Детская кровать" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">3</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431630403"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/tovary_dlya_detey_i_igrushki/detskaya_krovat_431630403" title="Детская кровать в Махачкале">
+ Детская кровать</a> </h3>
+  <div class="about">
+  <span>4&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Товары для детей и игрушки</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:40
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i278095506" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/gruzoviki_i_spetstehnika/prodayu_gruzovik_278095506"
+ title="Объявление &laquo;Продаю грузовик&raquo; (5 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//81.img.avito.st/140x105/661180881.jpg" class="photo-count-show" alt="Продаю грузовик" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//81.img.avito.st/140x105/661180881.jpg" alt="Продаю грузовик" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/278095506"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/gruzoviki_i_spetstehnika/prodayu_gruzovik_278095506" title="Продаю грузовик в Махачкале">
+ Продаю грузовик</a> </h3>
+  <div class="about">
+  <span>510&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Грузовики и спецтехника</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:40
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431630230" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/mebel_i_interer/podstavka_pod_tv_431630230"
+ title="Объявление &laquo;Подставка под тв&raquo; (2 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//95.img.avito.st/140x105/1126515495.jpg" class="photo-count-show" alt="Подставка под тв" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//95.img.avito.st/140x105/1126515495.jpg" alt="Подставка под тв" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">2</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431630230"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/mebel_i_interer/podstavka_pod_tv_431630230" title="Подставка под тв в Махачкале">
+ Подставка под тв</a> </h3>
+  <div class="about">
+  <span>6&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Мебель и интерьер</span>  <span class="data-sep"> | </span>  Компания
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:39
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i367152563" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/odezhda_obuv_aksessuary/plate_367152563"
+ title="Объявление &laquo;Платье&raquo; (с фотографией)">
+   <noscript class="j-lazy-noscript"><img src="//73.img.avito.st/140x105/923254573.jpg" class="photo-count-show" alt="Платье" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//73.img.avito.st/140x105/923254573.jpg" alt="Платье" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">1</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/367152563"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/odezhda_obuv_aksessuary/plate_367152563" title="Платье в Махачкале">
+ Платье</a> </h3>
+  <div class="about">
+   </div>
+   
+ <div class="data">
+    <p>
+ <span>Одежда, обувь, аксессуары</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:39
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431629823" data-type="1">
+ 
+ <div class="b-photo">
+    
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431629823"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/zapchasti_i_aksessuary/zapchasti_431629823" title="Запчасти в Махачкале">
+ Запчасти</a> </h3>
+  <div class="about">
+  <span>20</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Запчасти и аксессуары</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:38
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431629455" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/odezhda_obuv_aksessuary/venum_431629455"
+ title="Объявление &laquo;Venum&raquo; (4 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//83.img.avito.st/140x105/1126504283.jpg" class="photo-count-show" alt="Venum" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//83.img.avito.st/140x105/1126504283.jpg" alt="Venum" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">4</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431629455"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/odezhda_obuv_aksessuary/venum_431629455" title="Venum в Махачкале">
+ Venum</a> </h3>
+  <div class="about">
+  <span>4&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Одежда, обувь, аксессуары</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:37
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431628937" data-type="1">
+ 
+ <div class="b-photo">
+    
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431628937"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/zemelnye_uchastki/uchastok_5_ga_izhs_431628937" title="Участок 5 га (ИЖС) в Махачкале">
+ Участок 5 га (ИЖС)</a> </h3>
+  <div class="about">
+  <span>350&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Земельные участки</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:36
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431628570" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/hasavyurt/avtomobili_s_probegom/mercedes-benz_e-klass_2008_431628570"
+ title="Объявление &laquo;Mercedes-Benz E-класс, 2008&raquo; (4 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//30.img.avito.st/140x105/1126505230.jpg" class="photo-count-show" alt="Mercedes-Benz E-класс, 2008" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//30.img.avito.st/140x105/1126505230.jpg" alt="Mercedes-Benz E-класс, 2008" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">4</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431628570"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/hasavyurt/avtomobili_s_probegom/mercedes-benz_e-klass_2008_431628570" title="Mercedes-Benz E-класс, 2008 в Хасавюрте">
+ Mercedes-Benz E-класс, 2008</a> </h3>
+  <div class="about">
+  <span>780&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Автомобили с пробегом</span>  </p>
+   <p>Хасавюрт</p>
+  
+ <div class="date">
+ Сегодня 00:35
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431628469" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/avtomobili_s_probegom/vaz_21099_2001_431628469"
+ title="Объявление &laquo;ВАЗ 21099, 2001&raquo; (5 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//61.img.avito.st/140x105/1126493061.jpg" class="photo-count-show" alt="ВАЗ 21099, 2001" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//61.img.avito.st/140x105/1126493061.jpg" alt="ВАЗ 21099, 2001" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431628469"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/avtomobili_s_probegom/vaz_21099_2001_431628469" title="ВАЗ 21099, 2001 в Махачкале">
+ ВАЗ 21099, 2001</a> </h3>
+  <div class="about">
+  <span>60&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Автомобили с пробегом</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:35
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-2" id="i404688788" data-type="2">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/zapchasti_i_aksessuary/na_razbore_mersedes_e210._restayl_2.8_lit_404688788"
+ title="Объявление &laquo;На разборе мерседес Е210. (рестайл) 2.8 лит&raquo; (5 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//45.img.avito.st/140x105/1040968945.jpg" class="photo-count-show" alt="На разборе мерседес Е210. (рестайл) 2.8 лит" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//45.img.avito.st/140x105/1040968945.jpg" alt="На разборе мерседес Е210. (рестайл) 2.8 лит" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/404688788"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/zapchasti_i_aksessuary/na_razbore_mersedes_e210._restayl_2.8_lit_404688788" title="На разборе мерседес Е210. (рестайл) 2.8 лит в Махачкале">
+ На разборе мерседес Е210. (рестайл) 2.8 лит</a> </h3>
+  <div class="about">
+  <span>100</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Запчасти и аксессуары</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:34
+ </div> </div>
+  <div class="vas-applied"> <!--noindex-->
+ <a title="Премиум-объявление" class="icon-link link_plain" href="/info/usluga_premium_obyavleniya?plain&amp;itemId=404688788" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-premium i-vas-s-gray"></i></a> <a title="VIP-объявление" class="icon-link link_plain" href="/info/usluga_vip_obyavleniya?plain&amp;itemId=404688788" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-vip i-vas-s-gray"></i></a> <a title="Выделенное объявление" class="icon-link link_plain" href="/info/usluga_vydelenie_obyavleniya?plain&amp;itemId=404688788" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-highlight i-vas-s-gray"></i></a>  <!--/noindex--> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431627951" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/mebel_i_interer/svetilniki_bu_431627951"
+ title="Объявление &laquo;Светильники б/у&raquo; (4 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//15.img.avito.st/140x105/1126516615.jpg" class="photo-count-show" alt="Светильники б/у" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//15.img.avito.st/140x105/1126516615.jpg" alt="Светильники б/у" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">4</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431627951"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/mebel_i_interer/svetilniki_bu_431627951" title="Светильники б/у в Махачкале">
+ Светильники б/у</a> </h3>
+  <div class="about">
+  <span>2&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Мебель и интерьер</span>  <span class="data-sep"> | </span>  Компания
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:33
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i298935842" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/odezhda_obuv_aksessuary/shikarnye_vechernee_plate_298935842"
+ title="Объявление &laquo;Шикарные вечернее платье&raquo; (3 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//56.img.avito.st/140x105/1126508756.jpg" class="photo-count-show" alt="Шикарные вечернее платье" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//56.img.avito.st/140x105/1126508756.jpg" alt="Шикарные вечернее платье" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">3</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/298935842"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/odezhda_obuv_aksessuary/shikarnye_vechernee_plate_298935842" title="Шикарные вечернее платье в Махачкале">
+ Шикарные вечернее платье</a> </h3>
+  <div class="about">
+  <span>5&nbsp;500</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Одежда, обувь, аксессуары</span>  <span class="data-sep"> | </span>  Компания
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:32
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-2" id="i429030601" data-type="2">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/odezhda_obuv_aksessuary/sharfy_platki_optovym_pokupatelyam_429030601"
+ title="Объявление &laquo;Шарфы, платки оптовым покупателям&raquo; (3 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//57.img.avito.st/140x105/1117799057.jpg" class="photo-count-show" alt="Шарфы, платки оптовым покупателям" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//57.img.avito.st/140x105/1117799057.jpg" alt="Шарфы, платки оптовым покупателям" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">3</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/429030601"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/odezhda_obuv_aksessuary/sharfy_platki_optovym_pokupatelyam_429030601" title="Шарфы, платки оптовым покупателям в Махачкале">
+ Шарфы, платки оптовым покупателям</a> </h3>
+  <div class="about">
+  <span>70</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Одежда, обувь, аксессуары</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:32
+ </div> </div>
+  <div class="vas-applied"> <!--noindex-->
+ <a title="Премиум-объявление" class="icon-link link_plain" href="/info/usluga_premium_obyavleniya?plain&amp;itemId=429030601" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-premium i-vas-s-gray"></i></a> <a title="VIP-объявление" class="icon-link link_plain" href="/info/usluga_vip_obyavleniya?plain&amp;itemId=429030601" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-vip i-vas-s-gray"></i></a> <a title="Выделенное объявление" class="icon-link link_plain" href="/info/usluga_vydelenie_obyavleniya?plain&amp;itemId=429030601" rel="nofollow" target="_blank"><i  class="i-vas-s-gray-highlight i-vas-s-gray"></i></a>  <!--/noindex--> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431627235" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/kaspiysk/kvartiry/2-k_kvartira_48_m_25_et._431627235"
+ title="Объявление &laquo;2-к квартира, 48 м², 2/5 эт.&raquo; (15 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//11.img.avito.st/140x105/1126538811.jpg" class="photo-count-show" alt="2-к квартира, 48 м², 2/5 эт." /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//11.img.avito.st/140x105/1126538811.jpg" alt="2-к квартира, 48 м², 2/5 эт." class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">15</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431627235"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/kaspiysk/kvartiry/2-k_kvartira_48_m_25_et._431627235" title="2-к квартира, 48 м², 2/5 эт. в Каспийске">
+ 2-к квартира, 48 м², 2/5 эт.</a> </h3>
+  <div class="about">
+  <span>2&nbsp;000&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Квартиры</span>  <span class="data-sep"> | </span>  Агентство
+    </p>
+   <p>Каспийск</p>
+  
+ <div class="date">
+ Сегодня 00:32
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431627231" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/kvartiry/2-k_kvartira_70_m_66_et._431627231"
+ title="Объявление &laquo;2-к квартира, 70 м², 6/6 эт.&raquo; (11 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//48.img.avito.st/140x105/1126483948.jpg" class="photo-count-show" alt="2-к квартира, 70 м², 6/6 эт." /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//48.img.avito.st/140x105/1126483948.jpg" alt="2-к квартира, 70 м², 6/6 эт." class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">11</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431627231"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/kvartiry/2-k_kvartira_70_m_66_et._431627231" title="2-к квартира, 70 м², 6/6 эт. в Махачкале">
+ 2-к квартира, 70 м², 6/6 эт.</a> </h3>
+  <div class="about">
+  <span>2&nbsp;200&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Квартиры</span>  <span class="data-sep"> | </span>  Агентство
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:32
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431627063" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/avtomobili_s_probegom/lada_4x4_niva_2014_431627063"
+ title="Объявление &laquo;LADA 4x4 (Нива), 2014&raquo; (7 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//16.img.avito.st/140x105/1126495916.jpg" class="photo-count-show" alt="LADA 4x4 (Нива), 2014" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//16.img.avito.st/140x105/1126495916.jpg" alt="LADA 4x4 (Нива), 2014" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">7</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431627063"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/avtomobili_s_probegom/lada_4x4_niva_2014_431627063" title="LADA 4x4 (Нива), 2014 в Махачкале">
+ LADA 4x4 (Нива), 2014</a> </h3>
+  <div class="about">
+  <span>390&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Автомобили с пробегом</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:31
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431626889" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/zapchasti_i_aksessuary/lonzheron_na_vaz_10_priora_431626889"
+ title="Объявление &laquo;Лонжерон на ВАЗ 10 приора&raquo; (с фотографией)">
+   <noscript class="j-lazy-noscript"><img src="//79.img.avito.st/140x105/1126499979.jpg" class="photo-count-show" alt="Лонжерон на ВАЗ 10 приора" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//79.img.avito.st/140x105/1126499979.jpg" alt="Лонжерон на ВАЗ 10 приора" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">1</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431626889"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/zapchasti_i_aksessuary/lonzheron_na_vaz_10_priora_431626889" title="Лонжерон на ВАЗ 10 приора в Махачкале">
+ Лонжерон на ВАЗ 10 приора</a> </h3>
+  <div class="about">
+  <span>2&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Запчасти и аксессуары</span>  <span class="data-sep"> | </span>  Компания
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:31
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431626870" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/odezhda_obuv_aksessuary/vechernee_plate_431626870"
+ title="Объявление &laquo;Вечернее платье&raquo; (3 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//45.img.avito.st/140x105/1126498145.jpg" class="photo-count-show" alt="Вечернее платье" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//45.img.avito.st/140x105/1126498145.jpg" alt="Вечернее платье" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">3</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431626870"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/odezhda_obuv_aksessuary/vechernee_plate_431626870" title="Вечернее платье в Махачкале">
+ Вечернее платье</a> </h3>
+  <div class="about">
+  <span>4&nbsp;500</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Одежда, обувь, аксессуары</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:30
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431626869" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/mebel_i_interer/divan_b._u_431626869"
+ title="Объявление &laquo;Диван б. у&raquo; (5 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//72.img.avito.st/140x105/1126495972.jpg" class="photo-count-show" alt="Диван б. у" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//72.img.avito.st/140x105/1126495972.jpg" alt="Диван б. у" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431626869"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/mebel_i_interer/divan_b._u_431626869" title="Диван б. у в Махачкале">
+ Диван б. у</a> </h3>
+  <div class="about">
+  <span>10&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Мебель и интерьер</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:30
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431626797" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/oborudovanie_dlya_biznesa/relax_z-trek_431626797"
+ title="Объявление &laquo;Relax Z-trek&raquo; (4 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//31.img.avito.st/140x105/1126498431.jpg" class="photo-count-show" alt="Relax Z-trek" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//31.img.avito.st/140x105/1126498431.jpg" alt="Relax Z-trek" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">4</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431626797"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/oborudovanie_dlya_biznesa/relax_z-trek_431626797" title="Relax Z-trek в Махачкале">
+ Relax Z-trek</a> </h3>
+  <div class="about">
+  <span>60</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Оборудование для бизнеса</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:30
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431626784" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/mebel_i_interer/prodam_zhurnalnyy_stolik_bu_431626784"
+ title="Объявление &laquo;Продам журнальный столик б/у&raquo; (2 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//20.img.avito.st/140x105/1126499020.jpg" class="photo-count-show" alt="Продам журнальный столик б/у" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//20.img.avito.st/140x105/1126499020.jpg" alt="Продам журнальный столик б/у" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">2</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431626784"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/mebel_i_interer/prodam_zhurnalnyy_stolik_bu_431626784" title="Продам журнальный столик б/у в Махачкале">
+ Продам журнальный столик б/у</a> </h3>
+  <div class="about">
+  <span>2&nbsp;800</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Мебель и интерьер</span>  <span class="data-sep"> | </span>  Компания
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:30
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431626572" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/derbent/telefony/ayfon_5s_431626572"
+ title="Объявление &laquo;Айфон 5s&raquo; (5 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//19.img.avito.st/140x105/1126498419.jpg" class="photo-count-show" alt="Айфон 5s" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//19.img.avito.st/140x105/1126498419.jpg" alt="Айфон 5s" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431626572"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/derbent/telefony/ayfon_5s_431626572" title="Айфон 5s в Дербенте">
+ Айфон 5s</a> </h3>
+  <div class="about">
+  <span>22&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Телефоны</span>  </p>
+   <p>Дербент</p>
+  
+ <div class="date">
+ Сегодня 00:30
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i296819180" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/detskaya_odezhda_i_obuv/letnie_krossovki_novye_296819180"
+ title="Объявление &laquo;Летние кроссовки новые&raquo; (5 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//98.img.avito.st/140x105/711688998.jpg" class="photo-count-show" alt="Летние кроссовки новые" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//98.img.avito.st/140x105/711688998.jpg" alt="Летние кроссовки новые" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/296819180"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/detskaya_odezhda_i_obuv/letnie_krossovki_novye_296819180" title="Летние кроссовки новые в Махачкале">
+ Летние кроссовки новые</a> </h3>
+  <div class="about">
+  <span>1&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Детская одежда и обувь</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:29
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i207018523" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/posuda_i_tovary_dlya_kuhni/parovarka_rondel_207018523"
+ title="Объявление &laquo;Пароварка Rondel&raquo; (2 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//52.img.avito.st/140x105/467461352.jpg" class="photo-count-show" alt="Пароварка Rondel" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//52.img.avito.st/140x105/467461352.jpg" alt="Пароварка Rondel" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">2</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/207018523"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/posuda_i_tovary_dlya_kuhni/parovarka_rondel_207018523" title="Пароварка Rondel в Махачкале">
+ Пароварка Rondel</a> </h3>
+  <div class="about">
+  <span>2&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Посуда и товары для кухни</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:29
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i207020172" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/posuda_i_tovary_dlya_kuhni/posuda_bohemia_snezhinka_hrustal_chehiya_207020172"
+ title="Объявление &laquo;Посуда Bohemia снежинка Хрусталь Чехия&raquo; (5 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//78.img.avito.st/140x105/467465378.jpg" class="photo-count-show" alt="Посуда Bohemia снежинка Хрусталь Чехия" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//78.img.avito.st/140x105/467465378.jpg" alt="Посуда Bohemia снежинка Хрусталь Чехия" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/207020172"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/posuda_i_tovary_dlya_kuhni/posuda_bohemia_snezhinka_hrustal_chehiya_207020172" title="Посуда Bohemia снежинка Хрусталь Чехия в Махачкале">
+ Посуда Bohemia снежинка Хрусталь Чехия</a> </h3>
+  <div class="about">
+  <span>2&nbsp;600</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Посуда и товары для кухни</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i354907318" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/kommercheskaya_nedvizhimost/pomeschenie_svobodnogo_naznacheniya_203_m_354907318"
+ title="Объявление &laquo;Помещение свободного назначения, 203 м²&raquo; (6 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//54.img.avito.st/140x105/884745854.jpg" class="photo-count-show" alt="Помещение свободного назначения, 203 м²" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//54.img.avito.st/140x105/884745854.jpg" alt="Помещение свободного назначения, 203 м²" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">6</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/354907318"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/kommercheskaya_nedvizhimost/pomeschenie_svobodnogo_naznacheniya_203_m_354907318" title="Помещение свободного назначения, 203 м² в Махачкале">
+ Помещение свободного назначения, 203 м²</a> </h3>
+  <div class="about">
+  <span>10&nbsp;500&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Коммерческая недвижимость</span>  <span class="data-sep"> | </span>  Агентство
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431626071" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/avtomobili_s_probegom/lada_priora_2014_431626071"
+ title="Объявление &laquo;LADA Priora, 2014&raquo; (2 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//90.img.avito.st/140x105/1126488690.jpg" class="photo-count-show" alt="LADA Priora, 2014" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//90.img.avito.st/140x105/1126488690.jpg" alt="LADA Priora, 2014" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">2</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431626071"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/avtomobili_s_probegom/lada_priora_2014_431626071" title="LADA Priora, 2014 в Махачкале">
+ LADA Priora, 2014</a> </h3>
+  <div class="about">
+  <span>480</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Автомобили с пробегом</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i431626065" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/rezume/ischu_rabotu_v_kaspiyske_431626065"
+ title="Объявление &laquo;Ищу работу в Каспийске&raquo; (с фотографией)">
+   <noscript class="j-lazy-noscript"><img src="//27.img.avito.st/140x105/1126495327.jpg" class="photo-count-show" alt="Ищу работу в Каспийске" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//27.img.avito.st/140x105/1126495327.jpg" alt="Ищу работу в Каспийске" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">1</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/431626065"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/rezume/ischu_rabotu_v_kaspiyske_431626065" title="Ищу работу в Каспийске в Махачкале">
+ Ищу работу в Каспийске</a> </h3>
+  <div class="about">
+   </div>
+   
+ <div class="data">
+    <p>
+ <span>Резюме</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i265773570" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/posuda_i_tovary_dlya_kuhni/posuda_bohemia_snezhinka_hrustal_chehiya_265773570"
+ title="Объявление &laquo;Посуда Bohemia снежинка Хрусталь Чехия&raquo; (5 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//96.img.avito.st/140x105/627761496.jpg" class="photo-count-show" alt="Посуда Bohemia снежинка Хрусталь Чехия" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//96.img.avito.st/140x105/627761496.jpg" alt="Посуда Bohemia снежинка Хрусталь Чехия" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">5</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/265773570"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/posuda_i_tovary_dlya_kuhni/posuda_bohemia_snezhinka_hrustal_chehiya_265773570" title="Посуда Bohemia снежинка Хрусталь Чехия в Махачкале">
+ Посуда Bohemia снежинка Хрусталь Чехия</a> </h3>
+  <div class="about">
+  <span>2&nbsp;600</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Посуда и товары для кухни</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i296826633" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/detskaya_odezhda_i_obuv/pulover_zara_novyy_296826633"
+ title="Объявление &laquo;Пуловер Zara новый&raquo; (3 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//17.img.avito.st/140x105/711710117.jpg" class="photo-count-show" alt="Пуловер Zara новый" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//17.img.avito.st/140x105/711710117.jpg" alt="Пуловер Zara новый" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">3</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/296826633"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/detskaya_odezhda_i_obuv/pulover_zara_novyy_296826633" title="Пуловер Zara новый в Махачкале">
+ Пуловер Zara новый</a> </h3>
+  <div class="about">
+  <span>1&nbsp;100</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Детская одежда и обувь</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i385006832" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/zapchasti_i_aksessuary/kolesa_bmw_385006832"
+ title="Объявление &laquo;Колеса BMW&raquo; (4 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//38.img.avito.st/140x105/983174038.jpg" class="photo-count-show" alt="Колеса BMW" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//38.img.avito.st/140x105/983174038.jpg" alt="Колеса BMW" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">4</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/385006832"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/zapchasti_i_aksessuary/kolesa_bmw_385006832" title="Колеса BMW в Махачкале">
+ Колеса BMW</a> </h3>
+  <div class="about">
+  <span>55&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Запчасти и аксессуары</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i354759401" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/kvartiry/3-k_kvartira_68_m_110_et._354759401"
+ title="Объявление &laquo;3-к квартира, 68 м², 1/10 эт.&raquo; (3 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//70.img.avito.st/140x105/878997070.jpg" class="photo-count-show" alt="3-к квартира, 68 м², 1/10 эт." /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//70.img.avito.st/140x105/878997070.jpg" alt="3-к квартира, 68 м², 1/10 эт." class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">3</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/354759401"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/kvartiry/3-k_kvartira_68_m_110_et._354759401" title="3-к квартира, 68 м², 1/10 эт. в Махачкале">
+ 3-к квартира, 68 м², 1/10 эт.</a> </h3>
+  <div class="about">
+  <span>2&nbsp;800&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Квартиры</span>  <span class="data-sep"> | </span>  Агентство
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i253378277" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/mebel_i_interer/iskusstvennaya_elka_253378277"
+ title="Объявление &laquo;Искусственная елка&raquo; (2 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//63.img.avito.st/140x105/594151263.jpg" class="photo-count-show" alt="Искусственная елка" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//63.img.avito.st/140x105/594151263.jpg" alt="Искусственная елка" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">2</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/253378277"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/mebel_i_interer/iskusstvennaya_elka_253378277" title="Искусственная елка в Махачкале">
+ Искусственная елка</a> </h3>
+  <div class="about">
+  <span>2&nbsp;500</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Мебель и интерьер</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i265774652" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/posuda_i_tovary_dlya_kuhni/parovarka_rondel_265774652"
+ title="Объявление &laquo;Пароварка Rondel&raquo; (2 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//15.img.avito.st/140x105/627764415.jpg" class="photo-count-show" alt="Пароварка Rondel" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//15.img.avito.st/140x105/627764415.jpg" alt="Пароварка Rondel" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">2</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/265774652"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/posuda_i_tovary_dlya_kuhni/parovarka_rondel_265774652" title="Пароварка Rondel в Махачкале">
+ Пароварка Rondel</a> </h3>
+  <div class="about">
+  <span>2&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Посуда и товары для кухни</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i352007079" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/kvartiry/4-k_kvartira_87_m_410_et._352007079"
+ title="Объявление &laquo;4-к квартира, 87 м², 4/10 эт.&raquo; (3 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//38.img.avito.st/140x105/870307138.jpg" class="photo-count-show" alt="4-к квартира, 87 м², 4/10 эт." /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//38.img.avito.st/140x105/870307138.jpg" alt="4-к квартира, 87 м², 4/10 эт." class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">3</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/352007079"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/kvartiry/4-k_kvartira_87_m_410_et._352007079" title="4-к квартира, 87 м², 4/10 эт. в Махачкале">
+ 4-к квартира, 87 м², 4/10 эт.</a> </h3>
+  <div class="about">
+  <span>3&nbsp;300&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Квартиры</span>  <span class="data-sep"> | </span>  Агентство
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i296825618" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/detskaya_odezhda_i_obuv/baletki_novye_296825618"
+ title="Объявление &laquo;Балетки новые&raquo; (4 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//14.img.avito.st/140x105/711706414.jpg" class="photo-count-show" alt="Балетки новые" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//14.img.avito.st/140x105/711706414.jpg" alt="Балетки новые" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">4</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/296825618"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/detskaya_odezhda_i_obuv/baletki_novye_296825618" title="Балетки новые в Махачкале">
+ Балетки новые</a> </h3>
+  <div class="about">
+  <span>750</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Детская одежда и обувь</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:28
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i340831456" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/doma_dachi_kottedzhi/dom_140_m_na_uchastke_1_sot._340831456"
+ title="Объявление &laquo;Дом 140 м² на участке 1 сот.&raquo; (11 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//24.img.avito.st/140x105/834605424.jpg" class="photo-count-show" alt="Дом 140 м² на участке 1 сот." /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//24.img.avito.st/140x105/834605424.jpg" alt="Дом 140 м² на участке 1 сот." class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">11</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/340831456"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/doma_dachi_kottedzhi/dom_140_m_na_uchastke_1_sot._340831456" title="Дом 140 м² на участке 1 сот. в Махачкале">
+ Дом 140 м² на участке 1 сот.</a> </h3>
+  <div class="about">
+   </div>
+   
+ <div class="data">
+    <p>
+ <span>Дома, дачи, коттеджи</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:27
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i296827862" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/detskaya_odezhda_i_obuv/krossovki_nike_novye_296827862"
+ title="Объявление &laquo;Кроссовки nike новые&raquo; (4 фотографии)">
+   <noscript class="j-lazy-noscript"><img src="//06.img.avito.st/140x105/711713406.jpg" class="photo-count-show" alt="Кроссовки nike новые" /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//06.img.avito.st/140x105/711713406.jpg" alt="Кроссовки nike новые" class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">4</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/296827862"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/detskaya_odezhda_i_obuv/krossovki_nike_novye_296827862" title="Кроссовки nike новые в Махачкале">
+ Кроссовки nike новые</a> </h3>
+  <div class="about">
+  <span>700</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Детская одежда и обувь</span>  </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:27
+ </div> </div>
+ 
+ </div> </div>
+           
+<div class="item item_table clearfix c-b-0" id="i351989359" data-type="1">
+ 
+ <div class="b-photo">
+         <a class="photo-wrapper" href="/mahachkala/kvartiry/1-k_kvartira_35_m_110_et._351989359"
+ title="Объявление &laquo;1-к квартира, 35 м², 1/10 эт.&raquo; (6 фотографий)">
+   <noscript class="j-lazy-noscript"><img src="//46.img.avito.st/140x105/870211246.jpg" class="photo-count-show" alt="1-к квартира, 35 м², 1/10 эт." /></noscript> <img src="//www.avito.ru/s/a/i/0.gif?bc28275" data-srcpath="//46.img.avito.st/140x105/870211246.jpg" alt="1-к квартира, 35 м², 1/10 эт." class="j-lazy" />
+    <span class="photo-icons"><i class="i i-photo">6</i></span>
+  </a>
+  
+ </div>
+ 
+ <div class="favorite">
+  <a class="favorite-link j-favorite-toggle"
+  href="/favorites/add/351989359"
+ title="Добавить в избранное"
+  >
+ 
+ <i class="i i-favorites-big i-favorites-big_empty"></i>
+  </a>
+  </div> <div class="description"> <h3 class="title"> <a href="/mahachkala/kvartiry/1-k_kvartira_35_m_110_et._351989359" title="1-к квартира, 35 м², 1/10 эт. в Махачкале">
+ 1-к квартира, 35 м², 1/10 эт.</a> </h3>
+  <div class="about">
+  <span>1&nbsp;500&nbsp;000</span> <span>руб.</span>
+    </div>
+   
+ <div class="data">
+    <p>
+ <span>Квартиры</span>  <span class="data-sep"> | </span>  Агентство
+    </p>
+   <p>Махачкала</p>
+  
+ <div class="date">
+ Сегодня 00:27
+ </div> </div>
+ 
+ </div> </div>
+  </div>
+   <link rel="stylesheet" type="text/css" href="//www.avito.ru/s/cc/05f03db7a323711a7759836e8acffc89f7c13fb3.css?7dfd045" />  <div id="yandex-direct-org"> <script>
+ (function() {
+ var qstring = 'Доска бесплатных объявлений от частных лиц и компаний в Республике Дагестан',
+ yandexDirectCounterSlot = '6_106253-170-direct';
+ function showYandexDirect(w, d, n, s, t) {
+ adsRequestCounter( yandexDirectCounterSlot, 'r' );
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Direct.insertInto(106253, "yandex-direct-org", {
+ partner_id : 106253,
+ site_bg_color : 'FFFFFF',
+ site_charset : 'utf-8',
+ font_family : 'arial',
+ ad_format : 'direct',
+ font_size : 1,
+ type : 'flat',
+ border_type : 'block',
+ limit : 3,
+ title_font_size : 3,
+ header_bg_color : 'FEEAC7',
+ bg_color : 'FFF',
+ border_color : 'FFF',
+ title_color : '008CC3',
+ url_color : '808080',
+ text_color : '000000',
+ hover_color : 'f06939',
+ all_color : '808080',
+ favicon : false,
+ stat_id : '170'
+ },
+ function () {
+ adsRequestCounter( yandexDirectCounterSlot, 'p' );
+ }
+ );
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.src = "//an.yandex.ru/system/context.js";
+ s.type = "text/javascript";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ }
+ showYandexDirect(window, document, "yandex_context_callbacks");
+ }());
+ </script> </div>
+  <div class="pagination j-pages"> <div class="pagination__nav clearfix">
+   <a class="pagination__page" href="/dagestan?p=2">
+ Следующая страница →
+ </a>
+  </div> <div class="pagination__pages clearfix">
+   <span class="pagination__page pagination__page_current">1</span>
+    <a class="pagination__page" href="/dagestan?p=2">2</a>
+    <a class="pagination__page" href="/dagestan?p=3">3</a>
+    <a class="pagination__page" href="/dagestan?p=4">4</a>
+    <a class="pagination__page" href="/dagestan?p=5">5</a>
+    <a class="pagination__page" href="/dagestan?p=6">6</a>
+    <a class="pagination__page" href="/dagestan?p=7">7</a>
+    <a class="pagination__page" href="/dagestan?p=8">8</a>
+    <a class="pagination__page" href="/dagestan?p=9">9</a>
+    <a class="pagination__page" href="/dagestan?p=10">10</a>
+    <a class="pagination__page" href="/dagestan?p=2842">Последняя</a>
+ 
+ </div> </div>
+ 
+ </div> <div class="catalog-promo">
+  
+ <div class="catalog-vips-container">
+  <div class="vips"> <h2 class="vips__header">VIP-объявления</h2>
+ 
+ <div class="vip-item">
+  <div class="vip-item__photo">
+  <a href="/mahachkala/mebel_i_interer/kuhonnaya_mebel_bu_425659584" title="Объявление &laquo;Кухонная мебель бу&raquo;"> <img src="//80.img.avito.st/240x180/1106905580.jpg" alt="Кухонная мебель бу" /> </a>
+  </div>
+   
+<div class="vip-item__description"> <h3 class="vip-item__header fader"><a href="/mahachkala/mebel_i_interer/kuhonnaya_mebel_bu_425659584" title="Кухонная мебель бу в Махачкале">
+  Кухонная мебель бу  </a></h3>
+    
+ <div class="vip-item__options">
+  <p class="vip-item__price">
+  <span class="vip-item__option">45&nbsp;000 руб.</span>
+  
+ </p>
+    <div>Махачкала</div>   
+ </div> </div>
+ </div>
+ 
+ <div class="vip-item">
+  <div class="vip-item__photo">
+  <a href="/mahachkala/doma_dachi_kottedzhi/dom_450_m_na_uchastke_10_sot._424796125" title="Объявление &laquo;Дом 450 м² на участке 10 сот.&raquo;"> <img src="//49.img.avito.st/240x180/1103983049.jpg" alt="Дом 450 м² на участке 10 сот." /> </a>
+  </div>
+   
+<div class="vip-item__description"> <h3 class="vip-item__header fader"><a href="/mahachkala/doma_dachi_kottedzhi/dom_450_m_na_uchastke_10_sot._424796125" title="Дом 450 м² на участке 10 сот. в Махачкале">
+  Дом 450 м² <span class="nobr">на участке 10 сот.</span>  </a></h3>
+    
+ <div class="vip-item__options">
+  <span class="vip-item__option">16&nbsp;000&nbsp;000 руб.</span>     <div>Махачкала</div>   
+ </div> </div>
+ </div>
+ 
+ <div class="vip-item">
+  <div class="vip-item__photo">
+  <a href="/novaya_maka/gruzoviki_i_spetstehnika/kamaz_trehosnyy_pritsepstsepka_429821190" title="Объявление &laquo;Камаз+ трёхосный прицеп(сцепка)&raquo;"> <img src="//24.img.avito.st/240x180/1120262624.jpg" alt="Камаз+ трёхосный прицеп(сцепка)" /> </a>
+  </div>
+   
+<div class="vip-item__description"> <h3 class="vip-item__header fader"><a href="/novaya_maka/gruzoviki_i_spetstehnika/kamaz_trehosnyy_pritsepstsepka_429821190" title="Камаз+ трёхосный прицеп(сцепка) в Новой Маке">
+  Камаз+ трёхосный прицеп(сцепка)  </a></h3>
+    
+ <div class="vip-item__options">
+  <p class="vip-item__price">
+  <span class="vip-item__option">600&nbsp;000 руб.</span>
+  
+ </p>
+    <div>Новая Мака</div>   
+ </div> </div>
+ </div>
+   <!--noindex--><div class="vips__about"> <a href="/info/usluga_vip_obyavleniya?plain" class="link_plain c-2" rel="nofollow" target="_blank">Что такое VIP-объявления?</a> </div><!--/noindex-->  </div>
+ </div>
+ <noindex> <div class="catalog-social">
+  <div class="social-logo"> <span class="logo-small">Avito</span> в социальных сетях
+ </div> <div class="social-icons"> <a class="social-icon icon-vk" href="/jump/s?to=http%3A%2F%2Fwww.vkontakte.ru%2Fclub5755934" target="_blank" title="Клуб Avito ВКонтакте" rel="nofollow">В</a> <a class="social-icon icon-ok" href="/jump/s?to=http%3A%2F%2Fwww.odnoklassniki.ru%2Favitoru" target="_blank" title="Avito в Одноклассниках" rel="nofollow">ОК</a> <a class="social-icon icon-fb" href="/jump/s?to=http%3A%2F%2Fwww.facebook.com%2Favito.ru" target="_blank" title="Avito в Facebook" rel="nofollow">F</a> <a class="social-icon icon-tw" href="/jump/s?to=http%3A%2F%2Fwww.twitter.com%2Favito_ru" target="_blank" title="Avito в Twitter" rel="nofollow">T</a> <a class="social-icon icon-gp" href="/jump/s?to=https%3A%2F%2Fplus.google.com%2Fu%2F0%2Fb%2F106768083601517627858%2F%2Bavitoru%2Fposts" target="_blank" title="Avito в Google+" rel="nofollow">G+</a> <a class="social-icon icon-lj" href="/jump/s?to=http%3A%2F%2Favito-news.livejournal.com" target="_blank" title="Блог Avito в Livejournal" rel="nofollow">LJ</a> <a class="social-icon icon-in" href="/jump/s?to=http%3A%2F%2Finstagram.com%2Favitoru" target="_blank" title="Avito в Instagram" rel="nofollow">Ins</a> </div>
+  </div> </noindex>
+       
+ <div id="ads_vr_top" data-banner-code="vr_top" class="dfp ad_vr_top ad_vr not-sticky"></div>
+         <div class="j-sticky"> <div id="ads_vr_low" data-banner-code="vr_low" class="dfp"> <div class="ads_vr_low_yandex" id="yandex_ad_R-110115-349"></div> <script>
+ var g_rtb_yandex_vr_low_page_id = "R-110115-349",
+ yandexVrLowCounterSlot = '6_R-110115-349-rtb'.replace( 'R-','' );
+ </script>
+   <script>adsRequestCounter(yandexVrLowCounterSlot,'r');(function(w,n){w[n]=w[n]||[];w[n].push(function(){Ya.Context.AdvManager.render({blockId:g_rtb_yandex_vr_low_page_id,renderTo:"yandex_ad_"+g_rtb_yandex_vr_low_page_id,async:false},function(){adsRequestCounter(yandexVrLowCounterSlot,'p');if(googletag){adsRequestCounter(window.dfpSlots['ads_vr_low'],'r');googletag.cmd.push(function(){googletag.display('ads_vr_low');});}});});document.write('<sc'+'ript type="text/javascript" src="//an.yandex.ru/system/context.js"></sc'+'ript>');})(this,"yandexContextSyncCallbacks");</script> 
+ </div> </div>
+  </div> </div>
+    <div id="ads_ldr_low" data-banner-code="ldr_low" class="dfp"> <div id="yandex_ad_R-106253-292"></div> <script>
+ var g_rtb_yandex_ldr_low_page_id = "R-106253-292",
+ yandexLdrLowCounterSlot = '6_R-106253-292-rtb'.replace( 'R-','' );
+ </script>
+   <script>adsRequestCounter(yandexLdrLowCounterSlot,'r');(function(w,n){w[n]=w[n]||[];w[n].push(function(){Ya.Context.AdvManager.render({blockId:g_rtb_yandex_ldr_low_page_id,renderTo:"yandex_ad_"+g_rtb_yandex_ldr_low_page_id,async:false},function(){adsRequestCounter(yandexLdrLowCounterSlot,'p');if(googletag){adsRequestCounter(window.dfpSlots['ads_ldr_low'],'r');googletag.cmd.push(function(){googletag.display('ads_ldr_low');});}});});document.write('<sc'+'ript type="text/javascript" src="//an.yandex.ru/system/context.js"></sc'+'ript>');})(this,"yandexContextSyncCallbacks");</script>  </div>
+  </div>
+  <div class="category-map">
+       
+ <dl class="category-map__section">
+  
+ <dt class="category-map__category category-map__root"> <a href="/dagestan/transport" title="Объявления о продаже, Транспорт в Республике Дагестан">
+ Транспорт
+ </a> </dt>
+  <dd class="category-map__category"> <a href="/dagestan/avtomobili_s_probegom" title="Объявления о продаже, Автомобили с пробегом в Республике Дагестан">
+ Автомобили с пробегом
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/novye_avtomobili" title="Объявления о продаже, Новые автомобили в Республике Дагестан">
+ Новые автомобили
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/mototsikly_i_mototehnika" title="Объявления о продаже, Мотоциклы и мототехника в Республике Дагестан">
+ Мотоциклы и мототехника
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/gruzoviki_i_spetstehnika" title="Объявления о продаже, Грузовики и спецтехника в Республике Дагестан">
+ Грузовики и спецтехника
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/vodnyy_transport" title="Объявления о продаже, Водный транспорт в Республике Дагестан">
+ Водный транспорт
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/zapchasti_i_aksessuary" title="Объявления о продаже, Запчасти и аксессуары в Республике Дагестан">
+ Запчасти и аксессуары
+ </a> </dd>
+   </dl>
+    
+ <dl class="category-map__section">
+  
+ <dt class="category-map__category category-map__root"> <a href="/dagestan/nedvizhimost" title="Объявления о продаже, Недвижимость в Республике Дагестан">
+ Недвижимость
+ </a> </dt>
+  <dd class="category-map__category"> <a href="/dagestan/kvartiry" title="Объявления о продаже, Квартиры в Республике Дагестан">
+ Квартиры
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/komnaty" title="Объявления о продаже, Комнаты в Республике Дагестан">
+ Комнаты
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/doma_dachi_kottedzhi" title="Объявления о продаже, Дома, дачи, коттеджи в Республике Дагестан">
+ Дома, дачи, коттеджи
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/zemelnye_uchastki" title="Объявления о продаже, Земельные участки в Республике Дагестан">
+ Земельные участки
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/garazhi_i_mashinomesta" title="Объявления о продаже, Гаражи и машиноместа в Республике Дагестан">
+ Гаражи и машиноместа
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/kommercheskaya_nedvizhimost" title="Объявления о продаже, Коммерческая недвижимость в Республике Дагестан">
+ Коммерческая недвижимость
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/nedvizhimost_za_rubezhom" title="Объявления о продаже, Недвижимость за рубежом в Республике Дагестан">
+ Недвижимость за рубежом
+ </a> </dd>
+   </dl>
+  
+ <dl class="category-map__section">
+  
+ <dt class="category-map__category category-map__root"> <a href="/dagestan/rabota" title="Объявления о продаже, Работа в Республике Дагестан">
+ Работа
+ </a> </dt>
+  <dd class="category-map__category"> <a href="/dagestan/vakansii" title="Объявления о продаже, Вакансии в Республике Дагестан">
+ Вакансии
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/rezume" title="Объявления о продаже, Резюме в Республике Дагестан">
+ Резюме
+ </a> </dd>
+   
+ <dt class="category-map__category category-map__root"> <a href="/dagestan/uslugi" title="Объявления о продаже, Услуги в Республике Дагестан">
+ Услуги
+ </a> </dt>
+  <dd class="category-map__category"> <a href="/dagestan/predlozheniya_uslug" title="Объявления о продаже, Предложения услуг в Республике Дагестан">
+ Предложения услуг
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/zaprosy_na_uslugi" title="Объявления о продаже, Запросы на услуги в Республике Дагестан">
+ Запросы на услуги
+ </a> </dd>
+   </dl>
+    
+ <dl class="category-map__section">
+  
+ <dt class="category-map__category category-map__root"> <a href="/dagestan/lichnye_veschi" title="Объявления о продаже, Личные вещи в Республике Дагестан">
+ Личные вещи
+ </a> </dt>
+  <dd class="category-map__category"> <a href="/dagestan/odezhda_obuv_aksessuary" title="Объявления о продаже, Одежда, обувь, аксессуары в Республике Дагестан">
+ Одежда, обувь, аксессуары
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/detskaya_odezhda_i_obuv" title="Объявления о продаже, Детская одежда и обувь в Республике Дагестан">
+ Детская одежда и обувь
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/tovary_dlya_detey_i_igrushki" title="Объявления о продаже, Товары для детей и игрушки в Республике Дагестан">
+ Товары для детей и игрушки
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/chasy_i_ukrasheniya" title="Объявления о продаже, Часы и украшения в Республике Дагестан">
+ Часы и украшения
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/krasota_i_zdorove" title="Объявления о продаже, Красота и здоровье в Республике Дагестан">
+ Красота и здоровье
+ </a> </dd>
+   </dl>
+          
+ <dl class="category-map__section">
+  
+ <dt class="category-map__category category-map__root"> <a href="/dagestan/dlya_doma_i_dachi" title="Объявления о продаже, Для дома и дачи в Республике Дагестан">
+ Для дома и дачи
+ </a> </dt>
+  <dd class="category-map__category"> <a href="/dagestan/bytovaya_tehnika" title="Объявления о продаже, Бытовая техника в Республике Дагестан">
+ Бытовая техника
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/mebel_i_interer" title="Объявления о продаже, Мебель и интерьер в Республике Дагестан">
+ Мебель и интерьер
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/posuda_i_tovary_dlya_kuhni" title="Объявления о продаже, Посуда и товары для кухни в Республике Дагестан">
+ Посуда и товары для кухни
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/produkty_pitaniya" title="Объявления о продаже, Продукты питания в Республике Дагестан">
+ Продукты питания
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/remont_i_stroitelstvo" title="Объявления о продаже, Ремонт и строительство в Республике Дагестан">
+ Ремонт и строительство
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/rasteniya" title="Объявления о продаже, Растения в Республике Дагестан">
+ Растения
+ </a> </dd>
+   
+ <dt class="category-map__category category-map__root"> <a href="/dagestan/dlya_biznesa" title="Объявления о продаже, Для бизнеса в Республике Дагестан">
+ Для бизнеса
+ </a> </dt>
+  <dd class="category-map__category"> <a href="/dagestan/gotoviy_biznes" title="Объявления о продаже, Готовый бизнес в Республике Дагестан">
+ Готовый бизнес
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/oborudovanie_dlya_biznesa" title="Объявления о продаже, Оборудование для бизнеса в Республике Дагестан">
+ Оборудование для бизнеса
+ </a> </dd>
+   </dl>
+    
+ <dl class="category-map__section">
+  
+ <dt class="category-map__category category-map__root"> <a href="/dagestan/bytovaya_elektronika" title="Объявления о продаже, Бытовая электроника в Республике Дагестан">
+ Бытовая электроника
+ </a> </dt>
+  <dd class="category-map__category"> <a href="/dagestan/audio_i_video" title="Объявления о продаже, Аудио и видео в Республике Дагестан">
+ Аудио и видео
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/igry_pristavki_i_programmy" title="Объявления о продаже, Игры, приставки и программы в Республике Дагестан">
+ Игры, приставки и программы
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/nastolnye_kompyutery" title="Объявления о продаже, Настольные компьютеры в Республике Дагестан">
+ Настольные компьютеры
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/noutbuki" title="Объявления о продаже, Ноутбуки в Республике Дагестан">
+ Ноутбуки
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/orgtehnika_i_rashodniki" title="Объявления о продаже, Оргтехника и расходники в Республике Дагестан">
+ Оргтехника и расходники
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/planshety_i_elektronnye_knigi" title="Объявления о продаже, Планшеты и электронные книги в Республике Дагестан">
+ Планшеты и электронные книги
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/telefony" title="Объявления о продаже, Телефоны в Республике Дагестан">
+ Телефоны
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/tovary_dlya_kompyutera" title="Объявления о продаже, Товары для компьютера в Республике Дагестан">
+ Товары для компьютера
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/fototehnika" title="Объявления о продаже, Фототехника в Республике Дагестан">
+ Фототехника
+ </a> </dd>
+   </dl>
+    
+ <dl class="category-map__section">
+  
+ <dt class="category-map__category category-map__root"> <a href="/dagestan/hobbi_i_otdyh" title="Объявления о продаже, Хобби и отдых в Республике Дагестан">
+ Хобби и отдых
+ </a> </dt>
+  <dd class="category-map__category"> <a href="/dagestan/bilety_i_puteshestviya" title="Объявления о продаже, Билеты и путешествия в Республике Дагестан">
+ Билеты и путешествия
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/velosipedy" title="Объявления о продаже, Велосипеды в Республике Дагестан">
+ Велосипеды
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/knigi_i_zhurnaly" title="Объявления о продаже, Книги и журналы в Республике Дагестан">
+ Книги и журналы
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/kollektsionirovanie" title="Объявления о продаже, Коллекционирование в Республике Дагестан">
+ Коллекционирование
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/muzykalnye_instrumenty" title="Объявления о продаже, Музыкальные инструменты в Республике Дагестан">
+ Музыкальные инструменты
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/ohota_i_rybalka" title="Объявления о продаже, Охота и рыбалка в Республике Дагестан">
+ Охота и рыбалка
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/sport_i_otdyh" title="Объявления о продаже, Спорт и отдых в Республике Дагестан">
+ Спорт и отдых
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/znakomstva" title="Объявления о продаже, Знакомства в Республике Дагестан">
+ Знакомства
+ </a> </dd>
+   </dl>
+    
+ <dl class="category-map__section">
+  
+ <dt class="category-map__category category-map__root"> <a href="/dagestan/zhivotnye" title="Объявления о продаже, Животные в Республике Дагестан">
+ Животные
+ </a> </dt>
+  <dd class="category-map__category"> <a href="/dagestan/sobaki" title="Объявления о продаже, Собаки в Республике Дагестан">
+ Собаки
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/koshki" title="Объявления о продаже, Кошки в Республике Дагестан">
+ Кошки
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/ptitsy" title="Объявления о продаже, Птицы в Республике Дагестан">
+ Птицы
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/akvarium" title="Объявления о продаже, Аквариум в Республике Дагестан">
+ Аквариум
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/drugie_zhivotnye" title="Объявления о продаже, Другие животные в Республике Дагестан">
+ Другие животные
+ </a> </dd>
+  <dd class="category-map__category"> <a href="/dagestan/tovary_dlya_zhivotnyh" title="Объявления о продаже, Товары для животных в Республике Дагестан">
+ Товары для животных
+ </a> </dd>
+   </dl>
+        
+</div>
+  <div class="l-footer"> <ul class="nav"> <li><a href="//www.avito.ru/additem" title="Подать объявление бесплатно">Подать объявление</a></li> <li><a href="//www.avito.ru/dagestan/">Объявления</a></li>
+ <li><a href="//support.avito.ru/hc/ru">Помощь</a></li> <li><a href="//www.avito.ru/map">Карта категорий</a></li> <li><a href="//www.avito.ru/company">О компании</a></li>
+  <li><a href="//www.avito.ru/info/reklama_na_saite" rel="nofollow">Реклама на сайте</a></li> <li><a href="//www.avito.ru/shops">Магазины</a></li> <li><a href="//www.avito.ru/company/job">Вакансии</a></li> <li> <a href="//www.avito.ru/info/apps#iphone"><strong>Мобильное приложение</strong></a> </li>
+  <li class="justify-helper"></li> </ul> <div class="about c-2">&copy;&nbsp;Авито&nbsp;&mdash;&nbsp;<a href="/dagestan" class="c-l3">сайт бесплатных объявлений Дагестана</a>. Использование сайта, в том числе подача объявлений, означает согласие с
+ <a class="c-l3" href="//www.avito.ru/info/polzovatelskoe_soglashenie">пользовательским соглашением</a>.
+  <br>Оплачивая услуги на сайте, Вы принимаете <a href="//www.avito.ru/info/oferta">оферту</a>.
+  <a href="//www.avito.ru/help/tech_browser">Информация&nbsp;о&nbsp;cookies</a>
+   </div> <div class="counters">
+  <a href='http://www.liveinternet.ru/click' target="_blank" id="li_button" class="no-border"></a>
+ <script>!function(){document.getElementById("li_button").innerHTML="<img src='//counter.yadro.ru/hit?t26.1;r"+escape(document.referrer)+("undefined"==typeof screen?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,80))+";"+Math.random()+"' alt='' title='LiveInternet: показано число посетителей за сегодня' border=0 width=88 height=15>"}();</script>   </div> </div>
+    <iframe src="//awaps.yandex.ru/0/9947/001001.htm" width="1" height="1"
+ marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0"
+ scrolling="no" bordercolor="#000000"
+ style="left: -9999px; position: absolute;"></iframe>
+ 
+ </div>
+      <script src="//www.avito.ru/s/cc/2929bf5f7c3c6903cac5af2ac503d70be3b97af3.js?1f4702b"></script>        <script src="//www.avito.ru/s/cc/467ffe40b9950bb110469bf83a3611fb1728db9c.js?9ef4b8c"></script>  <script src="//www.avito.ru/s/cc/475816e8fa154c7f755c674dbe8676842dd4eed9.js?b0481dd"></script>    <script src="//www.avito.ru/s/cc/6c0004d68dabf8f8655f12d4402da2a9d9246238.js?81bdca8"></script> 
+ <div id="counters-invisible" class="counters-invisible">
+ <img src="//www.avito.ru/stat/u?1413062139" style="width: 1px; height: 1px; position: absolute; left: -9999px; top: -9999px;" />
+      
+ <script>
+  avito.tracking.trackGAUrl('\x2Fga_search\x3Flocation\x3D646710\x26root_location\x3D621540\x26category\x3D0\x26root_category\x3D0\x26isquery\x3D0\x26page\x3D1');
+  </script>
+
+<script>
+        avito.tracking.trackCriteo( 10019, 0, [
+ { event: "viewList", avito: "1", item: [421958863,319314268,426379360], keywords: "" }
+ ] );
+      function DM_prepClient(csid,client) {
+ client.DM_addEncToLoc("category", 0);
+ }
+     
+ var _comscore = _comscore || [];
+ _comscore.push({ c1: "2", c2: "9829393", c4: document.location.href, c5: "SearchAll" });
+ (function() {
+ var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+ s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+ el.parentNode.insertBefore(s, el);
+ })();
+   
+</script>
+    <script>!function(){var e="F09828",t="avito",a=document.createElement("script"),c=document.getElementsByTagName("script")[0];a.src="//js.revsci.net/gateway/gw.js?auto=t&csid="+e+"&bpid="+t,a.async=!0,c.parentNode.insertBefore(a,c)}();</script>    <noscript> <img src="https://sb.scorecardresearch.com/p?c1=2&c2=9829393&cv=2.0&c4=avito.ru/dagestan&c5=SearchAll&cj=1" /> </noscript>
+             <script type="text/javascript">
+ var mmPixelUrl = '//pixel.mathtag.com/data/img?mt_id=413082&v2=646710';
+ var segments = avito.dfp.getSegments() || '';
+ if (segments) {
+ for (var i in segments) {
+ segments[i] = '' + segments[i];
+ while (segments[i].length < 3) {
+ segments[i] = '0' + segments[i];
+ }
+ }
+ mmPixelUrl += '&s4=' + segments.join(';')
+ }
+ var countersContainer = document.getElementById( 'counters-invisible' ),
+ counterImg = document.createElement( 'img' );
+ counterImg.src = mmPixelUrl;
+ countersContainer.appendChild( counterImg );
+ </script>
+         <script type="text/javascript">
+ mmPixelUrl = '//advombat.ru/0.gif?pid=AVITO&id=';
+ counterImg = document.createElement( 'img' );
+ counterImg.src = mmPixelUrl;
+ countersContainer.appendChild( counterImg );
+ </script>
+      
+ <script>
+ var img = new Image();
+ img.src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*avito_ru/ru/CP1251/tmsec=avito_0/' + Math.round(Math.random() * 1000000000);
+ </script> <noscript><img src="//www.tns-counter.ru/V13a****avito_ru/ru/CP1251/tmsec=avito_0/" width="1" height="1" alt="" /></noscript>
+   <script>
+ (function (d, w, c) {
+ (w[c] = w[c] || []).push(function() {
+ try {
+ w.yaCounter2237260 = new Ya.Metrika( {
+ id:2237260,
+ clickmap:true
+ } );
+  
+ } catch(e) { }
+ } );
+ var n = d.getElementsByTagName("script")[0],
+ s = d.createElement("script"),
+ f = function () { n.parentNode.insertBefore(s, n); };
+ s.type = "text/javascript";
+ s.async = true;
+ s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+ if (w.opera == "[object Opera]") {
+ d.addEventListener("DOMContentLoaded", f, false);
+ } else { f(); }
+ })(document, window, "yandex_metrika_callbacks");
+ </script> <noscript><div><img src="//mc.yandex.ru/watch/2237260" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+ </div>
+   <script src="//www.avito.ru/s/cc/03930cd076d2a81e29940e997e0323c4098c8d99.js?2c12aca"></script>  <script src="//www.avito.ru/s/cc/cd375963d9609c918041328f04bcc6769e207de1.js?08fb188"></script>  <script src="//www.avito.ru/s/cc/6e78bead6f4bdd6e020543622bf2b803970c4d86.js?6c79792"></script>   <div class="b-google-remarketing">
+ <script>var google_conversion_id=987009030,google_conversion_label="f8JaCLLjvAQQhqDS1gM",google_custom_params=window.google_tag_params,google_remarketing_only=!0;</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script> <noscript> <div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/987009030/?value=0&amp;label=f8JaCLLjvAQQhqDS1gM&amp;guid=ON&amp;script=0"/> </div> </noscript> </div>
+    
+</body> </html>

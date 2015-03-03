@@ -1,0 +1,9 @@
+php_flag magic_quotes_gpc on
+
+
+<ifmodule mod_rewrite.c="">
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^posts-([0-9]+).html/?$ /test.php?id=$1 [L,QSA]
+</ifmodule>

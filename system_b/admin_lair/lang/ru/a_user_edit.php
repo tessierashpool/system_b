@@ -1,0 +1,31 @@
+<?
+$M['BTN_SAVE'] = "Сохранить";
+$M['BTN_APPLY'] = "Применить";
+$M['BTN_CANCEL'] = "Отмена";
+$M['TABS_MAIN'] = "Основное";
+$M['TABS_GROUP'] = "Группа";
+$M['ERROR_LONG_LOGIN'] = "Длина логина не должна быть меньше ";
+$M['ERROR_SHORT_LOGIN'] = "Длина логина не должна быть больше ";
+$M['ERROR_INVALID_LOGIN'] = "Недопустимые символы в логине";
+$M['ERROR_LOGIN_EXIST'] = "Такой логин существует";
+$M['ERROR_LOGIN_EMPTY'] = "Необходимо заполнить поле \"Логин\"";
+$M['ERROR_PASS_SHORT'] = "Длина пароля не должна быть больше ";
+$M['ERROR_PASS_LONG'] = "Длина пароля не должна быть меньше ";
+$M['ERROR_PASS_EMPTY'] = "Необходимо заполнить поле \"Пароль\"";
+$M['ERROR_EMAIL_INVALID'] = "Недопустимый email";
+$M['ERROR_EMAIL_EXIST'] = "Такой email существует";
+$M['ERROR_RANG_OUT_RANGE'] = "Ранг должен быть в пределах от 1 до 999";
+$M['ERROR_GROUP_ADD'] = "Неудалось добавить группу c id ";
+$M['USER_UPDATED_1'] = "Пользователь ";
+$M['USER_UPDATED_2'] = " обновлен";
+$M['PAGE_TITLE'] = "Редактирование пользователя";
+$M['PAGE_DESCRIPTION'] = "Редактирование пользователя который уже в базе данных";
+$M['LIST_YES'] = "Да";
+$M['LIST_NO'] = "Нет";
+$M['T_LOGIN'] = "Логин";
+$M['T_PASS'] = "Пароль";
+$M['T_EMAIL'] = "Email";
+$M['T_ACTIVEN'] = "Активен";
+$M['T_RANG'] = "Ранг";
+$M['DONT_HAVE_RIGHT'] = "У вас нет прав на просмотр данной страницы";
+?>

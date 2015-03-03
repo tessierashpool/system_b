@@ -1,0 +1,91 @@
+.msg_box{
+	min-height:5px;
+	height:auto;
+	width:100%;
+	position:fixed;
+	-webkit-box-shadow: 0px 1px 5px 0px rgba(50, 50, 50, 0.3);
+	-moz-box-shadow:    0px 1px 5px 0px rgba(50, 50, 50, 0.3);
+	box-shadow:         0px 1px 5px 0px rgba(50, 50, 50, 0.3);	
+	z-index:1002;	
+	display:none;
+}
+
+.msg_box div.msg_cont{
+	min-height:5px;
+	height:auto;
+	width:100%;
+	position:relative;
+	-moz-opacity: 0.97;
+	-khtml-opacity: 0.97;
+	opacity: 0.97;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=97);
+	overflow:hidden;
+	display:none;
+	cursor:pointer;
+ }
+ 
+.msg_box div.msg_red{
+	background-color:#f5989d;
+ }
+ 
+.msg_box div.msg_green{
+	background-color:#a3d39c;
+ }
+ 
+.msg_box p{
+	width:1000px;
+    font-family: arial,sans-serif;
+	font-size:13px;		
+	padding-left:15px;
+	margin-top:2px;
+	margin-bottom:2px;
+	line-height:24px;
+	height:25px;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+}
+.msg_box div.msg_red p{
+	color:#7b3b3e;
+ }
+.msg_box div.msg_green p{
+	color:#346b2c;
+ }
+ .msg_box div.msg_red span.msg_timer{
+	color:#7b3b3e;
+ }
+.msg_box div.msg_green span.msg_timer{
+	color:#346b2c;
+ }
+.msg_box span.msg_timer{
+	font-size:12px;		
+	font-weight:100;
+	margin-left:20px;
+	position:absolute;
+	left:-15px;
+	cursor:pointer;
+	margin-top:-1px;
+}
+.close_msg_cont{
+	height:11px;
+	width:11px;
+	position:absolute;
+	right:10px;
+	top:9px;
+	background-image:url('./images/cross_icon.png');
+	-moz-opacity: 0.15;
+	-khtml-opacity: 0.15;
+	opacity: 0.15;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=15);
+	
+	transition:All 0.4s ease;
+	-webkit-transition:All 0.4s ease;
+	-moz-transition:All 0.4s ease;
+	-o-transition:All 0.4s ease;
+}
+.msg_cont:hover .close_msg_cont{
+	-moz-opacity: 0.50;
+	-khtml-opacity: 0.50;
+	opacity: 0.50;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=50);
+}

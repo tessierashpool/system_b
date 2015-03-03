@@ -1,0 +1,46 @@
+.captcha_cont{
+	width:100%;
+	height:auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.captch_input{
+	float:left;
+	width:292px;
+	height:20px;
+	border:1px solid #e4e4e4;
+	padding:1px 0 1px 4px;
+    font-family: arial,sans-serif;
+	color:#0e3543;
+	font-size:12px;		
+	background-color:#f9f9f9;
+	margin-top:2px;
+	margin-bottom:10px;
+	-webkit-box-shadow: inset 0px 1px 5px -3px rgba(0,0,0,0.1);
+	-moz-box-shadow: inset 0px 1px 5px -3px rgba(0,0,0,0.1);
+	box-shadow: inset 0px 1px 5px -3px rgba(0,0,0,0.1);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;		
+}
+.cpat_reload_btn{
+	height:16px;
+	width:16px;
+	background-repeat:no-repeat;
+	background-image:url('./images/captcha_reload.png');
+	float:left;
+	margin-top:7px;
+	margin-left:-20px;
+	cursor:pointer;
+}
+.cpat_reload_btn:hover{
+	background-position:-16px 0;
+}
+.captcha_title_input{
+    font-family: arial,sans-serif;
+	color:#555555;
+	font-size:12px;	
+	font-weight:bold;
+	margin-bottom:2px;
+	margin-left:2px;	
+}

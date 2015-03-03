@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery damnUploader twitter bootstrap based demo (IE only > 8 supported!)</title>
+
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="./css/custom.css"/>
+
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../jquery.damnUploader.js"></script>
+    <script src="./js/interafce.js"></script>
+    <script src="./js/uploader-setup.js"></script>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="./">damnUploader v1.0 demo</a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="https://github.com/safronizator/damnUploader/">GitHub</a></li>
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </div>
+
+    <div class="container">
+
+
+        <div class="row">
+            <ul class="nav nav-tabs">
+                <li class="active"><a href="#filesystem-tab" data-toggle="tab">From filesystem</a></li>
+                <li><a href="#canvas-tab" data-toggle="tab">From canvas</a></li>
+                <li><a href="#teaxtarea-tab" data-toggle="tab">From textarea</a></li>
+            </ul>
+            <div class="tab-content" style="margin-top: 10px;">
+
+                <!-- Filesystem tab -->
+                <div class="tab-pane active" id="filesystem-tab">
+                    <div class="well well-lg auto-tip" id="drop-box" data-title="... or just drop it here" data-placement="bottom">
+                        <form class="form-inline" role="form" id="upload-form" method="post" action="./serverLogic.fallback.php" enctype="multipart/form-data">
+                            <input type="hidden" name="test-value-from-form" value="test" />
+                            <div class="form-group">
+                                <input type="file" class="form-control auto-tip" id="file-input" name="my-file" data-title="You can select one or more files by system menu" />
+                            </div>
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" id="previews-checker" checked="checked" /> Generate previews
+                                </label>
+                                <br/>
+                                <label>
+                                    <input type="checkbox" id="autostart-checker" /> Autostart
+                                </label>
+                            </div>
+                            <button id="send-btn" type="submit" class="btn btn-primary btn-std pull-right">Send</button>
+                            <button id="clear-btn" class="btn btn-danger btn-std pull-right">Clear</button>
+                        </form>
+                    </div>
+                </div>
+
+                <!-- Canvas tab -->
+                <div class="tab-pane" id="canvas-tab">
+                    <div class="well well-lg">
+                        <canvas id="canvas" width="150" height="100"></canvas>
+                        <button class="btn btn-default btn-std pull-right" id="canvas-add-btn">Add</button>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+
+                <!-- Textarea tab -->
+                <div class="tab-pane" id="teaxtarea-tab">
+                    <div class="well well-lg">
+                        <textarea id="text-to-send" class="form-control" rows="3" placeholder="Type some text to send (there's no reasons to send textarea content as file, because it can be send as default POST field. This example only shows that you can send any text or binary data [generated on clientside] as files)"></textarea>
+                        <button class="btn btn-default btn-std pull-right" id="text-add-btn">Add</button>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <h3>Upload queue</h3>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Preview</th>
+                        <th>Original filename</th>
+                        <th>Size</th>
+                        <th>Status</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody id="upload-rows"></tbody>
+            </table>
+        </div>
+
+    </div><!-- /.container -->
+
+
+    <div id="console-tip-anchor" class="auto-tip" data-title="See debug info in your browser console! (F12 on Windows, Cmd+Alt+I on Mac)"></div>
+</body>
+</html>

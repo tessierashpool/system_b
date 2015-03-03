@@ -1,0 +1,30 @@
+<?
+$M['MAIN'] = "Главная";
+$M['MAIN_PAGE'] = "Главная";
+$M['DB_TABLES'] = "Таблицы БД";
+$M['CREATE_TABLE'] = "Создать таблицу";
+$M['TABLE_LIST'] = "Список таблиц";
+$M['USERS'] = "Пользователи";
+$M['USERS_LIST'] = "Список пользователей";
+$M['ADD_USER'] = "Добавить пользователя";
+$M['GROUPS_LIST'] = "Список групп";
+$M['ADD_GROUP'] = "Добавить группу";
+$M['RIGHTS_LIST'] = "Список прав";
+$M['ADD_RIGHT'] = "Добавить право";
+$M['SETTINGS'] = "Настройки";
+$M['VIDEO'] = "Видео";
+$M['MAIN_SETTINGS'] = "Главные настройки";
+$M['EMAIL_SETTINGS'] = "Настройки почты";
+$M['MARKET'] = "Маркет";
+$M['IMAGES'] = "Изображения";
+$M['GALLERY_LIST'] = "Список галерей";
+$M['GALLERY_ADD'] = "Добавить галерею";
+$M['MARKET_LIST'] = "Список маркетов";
+$M['ADD_USER_ADDIT_FIELD'] = "Добавить Доп. поле";
+$M['GALLERY_DELETED'] = "Удаленые изображения";
+$M['VIDEO_GALLERY_LIST'] = "Список видео галерей";
+$M['VIDEO_GALLERY_ADD'] = "Добавить видео галерею";
+$M['T_GALLERIES'] = "Галереи";
+$M['T_V_GALLERIES'] = "Видео галереи";
+$M['VIDEO_GALLERY_DELETED'] = "Удаленые видео";
+?>
